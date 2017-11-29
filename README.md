@@ -1,4 +1,4 @@
 # web
 
-Academic [website](https://alanarnholt.github.io/) for Alan T. Arnholt.
+Academic [website](https://jillthomley.github.io/) for Jill E. Thomley.
 
