@@ -4,8 +4,8 @@ output_dir: "."
 navbar:
   title: "Jill E. Thomley"
   left:
-    - text: "For Students"
-      href: for-students.html
+    - text: "Schedule"
+      href: schedule.html
     - text: "Resources"
       href: resources.html
     - text: "Teaching"
