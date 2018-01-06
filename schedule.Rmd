@@ -1,0 +1,176 @@
+---
+title: "Schedule"
+output: 
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+---
+
+## Office Hours <i class="fa fa-clock-o"></i>
+
+My office is 228 Walker Hall. Students may schedule an appointment online using [book now](https://thomleyje.youcanbook.me/). Drop-ins during office hours are welcomed and encouraged, but appointments will take precedence.
+
+```{r, echo = FALSE}
+df <- data.frame(Time = c("09:00-09:30",
+                          "09:30-10:00",
+                          "10:00-10:30", 
+                          "10:30-11:00", 
+                          "11:00-11:30", 
+                          "11:30-12:00", 
+                          "12:00-12:30", 
+                          "12:30-01:00", 
+                          "01:00-01:30",
+                          "01:30-02:00",
+                          "02:00-02:30",
+                          "02:30-03:00",
+                          "03:00-03:30",
+                          "03:30-04:00",
+                          "04:00-04:30",
+                          "04:30-05:00",
+                          "05:00-05:30",
+                          "05:30-06:00",
+                          "06:00-06:30",
+                          "06:30-07:00",
+                          "07:00-07:30",
+                          "07:30-08:00"), 
+                 Monday = c("Flexible Work",
+                            "Flexible Work",
+                            "Flexible Work", 
+                            "Flexible Work", 
+                            "Flexible Work", 
+                            "Flexible Work", 
+                            "Flexible Work", 
+                            "Flexible Work", 
+                            "Flexible Work",
+                            "Flexible Work",
+                            "Flexible Work",
+                            "Flexible Work",
+                            "Flexible Work",
+                            "Flexible Work",
+                            "Flexible Work",
+                            "Flexible Work",
+                            "---",
+                            "Rehearsal",
+                            "Rehearsal",
+                            "Rehearsal",
+                            "Rehearsal",
+                            "Rehearsal"), 
+                 Tuesday = c("---",
+                             "---",
+                             "Class Prep", 
+                             "*Office Hour", 
+                             "*Office Hour", 
+                             "Class Prep", 
+                             "Class Prep", 
+                             "STT3850", 
+                             "STT3850",
+                             "STT3850",
+                             "STT1810",
+                             "STT1810",
+                             "STT1810",
+                             "STT3530",
+                             "STT3530",
+                             "STT3530",
+                             "---",
+                             "IRB",
+                             "IRB",
+                             "IRB",
+                             "IRB/Rehearsal",
+                             "IRB/Rehearsal"), 
+                 Wednesday = c("---",
+                               "---",
+                               "Class Prep", 
+                               "*Office Hour",
+                               "*Office Hour", 
+                               "*Office Hour", 
+                               "Class Prep", 
+                               "Class Prep", 
+                               "STT3850",
+                               "STT3850",
+                               "*Office Hour",
+                               "*Office Hour",
+                               "Dept Meeting",
+                               "Dept Meeting",
+                               "Misc Meeting",
+                               "Misc Meeting",
+                               "---",
+                               "---",
+                               "---",
+                               "---",
+                               "---",
+                               "---"), 
+                 Thursday = c("---",
+                              "---",
+                              "Class Prep", 
+                              "*Office Hour", 
+                              "*Office Hour", 
+                              "Class Prep", 
+                              "Class Prep", 
+                              "STT3850", 
+                              "STT3850",
+                              "STT3850",
+                              "STT1810",
+                              "STT1810",
+                              "STT1810",
+                              "STT3530",
+                              "STT3530",
+                              "STT3530",
+                              "*Office Hour",
+                              "---",
+                              "---",
+                              "---",
+                              "---",
+                              "---"),
+                 Friday = c("Scholarship",
+                            "Scholarship",
+                            "Scholarship", 
+                            "Scholarship", 
+                            "Scholarship", 
+                            "Scholarship", 
+                            "Scholarship", 
+                            "Scholarship", 
+                            "Scholarship",
+                            "Scholarship",
+                            "Scholarship", 
+                            "Scholarship", 
+                            "Scholarship", 
+                            "Scholarship", 
+                            "Scholarship", 
+                            "Scholarship",
+                            "---",
+                            "---",
+                            "---",
+                            "---",
+                            "---",
+                            "---"))
+knitr::kable(df, align = c("c","c","c","c","c","c"))
+```
+
+<hr>
+
+```{r include = FALSE}
+library(leaflet)
+library(dplyr)
+```
+
+## Find Walker Hall
+
+Use the leaflet map below to find Walker Hall. 
+
+```{r, echo = FALSE}
+leaflet() %>%
+  setView(lng=-81.684954, lat=36.216777, zoom = 16) %>% 
+  addTiles() %>%
+  addMarkers(lng=-81.684954, lat=36.216777, popup="Walker Hall") 
+```
+
+<hr>
+
+## ASU Dates and Times
+
+- [Academic Calendar](https://registrar.appstate.edu/calendars-schedules/academic-calendar) <i class="fa fa-calendar"></i>
+- [Final Exam Schedule](https://registrar.appstate.edu/calendars-schedules/exam-schedule-0)
+- [Registration and Classes](https://registrar.appstate.edu/students/registration-classes)
+
+* * *
