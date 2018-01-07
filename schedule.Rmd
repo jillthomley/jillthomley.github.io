@@ -1,11 +1,12 @@
 ---
-title: "Schedule"
+title: "Dr. Thomley's Spring 2018 Schedule"
 output: 
   html_document:
     toc: true
     toc_float:
       collapsed: false
 ---
+<hr>
 
 ## Office Hours <i class="fa fa-clock-o"></i>
 
@@ -154,9 +155,10 @@ library(leaflet)
 library(dplyr)
 ```
 
-## Find Walker Hall
+## Find Walker Hall <i class="fa fa-map-marker"></i>
 
-Use the leaflet map below to find Walker Hall. 
+Use the leaflet map below to find Walker Hall.
+ 
 
 ```{r, echo = FALSE}
 leaflet() %>%
@@ -167,10 +169,12 @@ leaflet() %>%
 
 <hr>
 
-## ASU Dates and Times
+## ASU Dates and Times <i class="fa fa-calendar-check-o"></i>
 
-- [Academic Calendar](https://registrar.appstate.edu/calendars-schedules/academic-calendar) <i class="fa fa-calendar"></i>
-- [Final Exam Schedule](https://registrar.appstate.edu/calendars-schedules/exam-schedule-0)
-- [Registration and Classes](https://registrar.appstate.edu/students/registration-classes)
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-calendar"></i>[Academic Calendar](https://registrar.appstate.edu/calendars-schedules/academic-calendar)</li>
+  <li><i class="fa-li fa fa-list"></i>[Final Exam Schedule](https://registrar.appstate.edu/calendars-schedules/exam-schedule-0)</li>
+  <li><i class="fa-li fa fa-graduation-cap"></i>[Registration and Classes](https://registrar.appstate.edu/students/registration-classes)</li>
+</ul>
 
 * * *
