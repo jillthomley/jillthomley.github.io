@@ -8,8 +8,6 @@ navbar:
       href: schedule.html
     - text: "Teaching"
       href: teaching.html
-    - text: "Software"
-      href: software.html
     - text: "Resources"
       href: resources.html
     - text: "Scholarship"
@@ -27,7 +25,7 @@ navbar:
 
 output:
   html_document:
-    theme: yeti
+    theme: cosmo
     highlight: textmate
     include:
       after_body: footer.html
