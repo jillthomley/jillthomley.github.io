@@ -5,9 +5,6 @@ output: html_document
 
 * * *
 
-<i class="glyphicon glyphicon-star"></i> TBA <i class="glyphicon glyphicon-thumbs-up"></i>
-
-
 ## Classes
 
 * STT 1810 Basic Statistics
@@ -15,5 +12,6 @@ output: html_document
 * [STT 3530 - Data Science 1](https://stat-jet-asu.github.io/DataScience1/)
 * STT 3850 Statistical Data Anlaysis I
 * [GitHub Course Repositories](https://github.com/STAT-JET-ASU)
+
 
 * * *

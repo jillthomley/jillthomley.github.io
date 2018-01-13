@@ -2,6 +2,8 @@
 title: "Welcome!"
 ---
 
+* * * 
+
 <figure>
 <img src="./images/Me-Medium.jpg" alt="Jill" align="left" hspace="20" style="width:125px;height:125px;">
 </figure>

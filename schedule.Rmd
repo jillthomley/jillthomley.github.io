@@ -6,7 +6,8 @@ output:
     toc_float:
       collapsed: false
 ---
-<hr>
+
+* * *
 
 ## Office Hours <i class="fa fa-clock-o"></i>
 
@@ -148,7 +149,7 @@ df <- data.frame(Time = c("09:00-09:30",
 knitr::kable(df, align = c("c","c","c","c","c","c"))
 ```
 
-<hr>
+* * *
 
 ```{r include = FALSE}
 library(leaflet)
@@ -167,7 +168,7 @@ leaflet() %>%
   addMarkers(lng=-81.684954, lat=36.216777, popup="Walker Hall") 
 ```
 
-<hr>
+* * *
 
 ## ASU Dates and Times <i class="fa fa-calendar-check-o"></i>
 
