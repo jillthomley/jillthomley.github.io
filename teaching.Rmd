@@ -8,8 +8,8 @@ output: html_document
 ## Classes
 
 * STT 1810 Basic Statistics
-* STT 3500 Intermediate Statistical Graphing
-* [STT 3530 - Data Science 1](https://stat-jet-asu.github.io/DataScience1/)
+* [STT 3530 Intermediate Statistical Graphing](https://stat-jet-asu.github.io/IntermediateStatisticalGraphing/)
+* [STT 3530 Data Science 1](https://stat-jet-asu.github.io/DataScience1/)
 * STT 3850 Statistical Data Anlaysis I
 * [GitHub Course Repositories](https://github.com/STAT-JET-ASU)
 
