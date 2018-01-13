@@ -178,4 +178,7 @@ leaflet() %>%
   <li><i class="fa-li fa fa-graduation-cap"></i>[Registration and Classes](https://registrar.appstate.edu/students/registration-classes)</li>
 </ul>
 
+This page was last updated on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`
+
+
 * * *

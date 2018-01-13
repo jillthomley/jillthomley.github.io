@@ -2,14 +2,9 @@
 title: "About"
 ---
 
+* * *
 
-<figure>
-<figcaption> Alan circa 1983 </figcaption>
-<img src="./images/AlanCadet1983.jpg" alt="Alan" align="left" hspace="20" style="width:85px;height:100px;">
-</figure>
-
-
-In 1986, I graduated from the [United States Military Academy at West Point](http://www.usma.edu) with a B.S. in the Mathematics of Operations Research.  When I graduated, I was commissioned as a second lieutenant in the U.S. Army.  My first duty station was [Fort Carson, Colorado](http://www.carson.army.mil). While at Fort Carson, I received an M.S. in Statistics from the [University of Northern Colorado](http://www.unco.edu) in 1989.  In 1990, I resigned my commission from active duty and began work on a Ph.D. at the University of Northern Colorado.  I received the Ph.D. in Statistics August 1993.  Since July 1993, I have served in the Department of [Mathematical Sciences](http://www.mathsci.appstate.edu) at [Appalachian State University](http://appstate.edu). I am married to Susie Arnholt, who is a Senior Lecturer in the Department of [Mathematical Sciences.](http://www.mathsci.appstate.edu) We are extremely blessed and have two wonderful daughters.
+In 1990, I graduated from [Harvard University](https://www.harvard.edu/) with an A.B. in Psychology. From there I went to [Rensselaer Polytechnic Institute](http://www.rpi.edu/), where I earned an M.S. in Industrial and Organizational Psycholopgy in 1992. For three years following my graduation from RPI, I worked at the [Stratton VA Medical Center](https://www.albany.va.gov/) on a research project to evaluate better modes of health care and social services coordination for older veterans with multiple health problems. When the project was completed, I returned to RPI and earned a Ph.D. in Decision Sciences and Engineering Systems with a focus in Statistics. Since July 2000, I have served in the [Department of Mathematical Sciences](http://www.mathsci.appstate.edu) at [Appalachian State University](http://appstate.edu).
 
 
 * * * 

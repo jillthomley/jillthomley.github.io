@@ -13,5 +13,7 @@ output: html_document
 * STT 3850 Statistical Data Anlaysis I
 * [GitHub Course Repositories](https://github.com/STAT-JET-ASU)
 
+This page was last updated on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`
+
 
 * * *

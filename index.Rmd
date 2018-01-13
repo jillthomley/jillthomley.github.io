@@ -16,7 +16,7 @@ I still need some content here!!!
 
 I still need some content here!!!  
 
-This website was last rendered on `r format(Sys.time(), "%A, %B %d, %Y - %X.")`
+This page was last updated on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`
 
 
 * * *
