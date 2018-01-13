@@ -12,8 +12,8 @@ navbar:
       href: scholarship.html
     - text: "Resources"
       href: resources.html
-    - text: "Cool Stuff"
-      href: coolstuff.html
+    - text: "Other Links"
+      href: otherlinks.html
     
   right:
     - text: ""
