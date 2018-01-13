@@ -154,9 +154,13 @@ Hadley Wickham](http://r4ds.had.co.nz/)
 
 * [Using Zotero](https://stat-ata-asu.github.io/STT2810HonorsClassRepo/RMarkdown/ZoteroInClass.html)
 
-### Other Interesting Stuff
+### Other
+
 * [R-bloggers](http://r-bloggers.com)
 * [John Chambers recounts the history of S and R](http://blog.revolutionanalytics.com/2014/01/john-chambers-recounts-the-history-of-s-and-r.html)
+
+This page was last updated on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`
+
 
 * * *
 

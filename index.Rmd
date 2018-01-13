@@ -4,19 +4,19 @@ title: "Welcome!"
 
 * * * 
 
-<figure>
-<img src="./images/Me-Medium.jpg" alt="Jill" align="left" hspace="20" style="width:125px;height:125px;">
-</figure>
+<figure><img src="./images/Me-Medium.jpg" alt="Jill" align="left" hspace="20" style="width:125px;height:125px;"></figure>
  
-I still need some content here!!!  
+&nbsp;
 
-I still need some content here!!!  
+&nbsp;
 
-I still need some content here!!!  
+&nbsp;
 
-I still need some content here!!!  
+&nbsp;
 
-This website was last rendered on `r format(Sys.time(), "%A, %B %d, %Y - %X.")`
+&nbsp;
+
+This page was last updated on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`
 
 
 * * *
