@@ -8,11 +8,11 @@ navbar:
       href: schedule.html
     - text: "Teaching"
       href: teaching.html
-    - text: "Resources"
-      href: resources.html
     - text: "Scholarship"
       href: scholarship.html
-    - text: "Cool Stuff"
+    - text: "Resources"
+      href: resources.html
+    - text: "Fun Things"
       href: coolstuff.html
     
   right:
