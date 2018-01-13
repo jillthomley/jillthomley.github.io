@@ -14,8 +14,11 @@ title: "Welcome!"
 
 &nbsp;
 
+<<<<<<< HEAD
 &nbsp;
 
+=======
+>>>>>>> 94dd8f64f0de584381d89a0f89d8af269c2bedb2
 This page was last updated on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`
 
 
