@@ -10,7 +10,7 @@ output: html_document
 * STT 1810 Basic Statistics (go to [AsULearn](http://asulearn.appstate.edu))
 * [STT 3530 Intermediate Statistical Graphing](https://stat-jet-asu.github.io/IntermediateStatisticalGraphing/)
 * [STT 3530 Data Science 1](https://stat-jet-asu.github.io/DataScience1/)
-* [STT 3850 Statistical Data Analysis 1](https://stat-jet-asu.github.io/StatsticalDataAnalysis1/)
+* [STT 3850 Statistical Data Analysis 1](https://stat-jet-asu.github.io/StatisticalDataAnalysis1/)
 * [GitHub Course Repositories](https://github.com/STAT-JET-ASU)
 
 This page was last updated on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`
