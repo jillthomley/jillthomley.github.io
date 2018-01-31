@@ -19,7 +19,7 @@ knitr::kable(df, align = c("c","c","c","c","c","c"))
 <center>
 <figure>
 <figcaption> Walker Hall </figcaption>
-<img src="./images/walkerhall.jpg" caption="Walker Hall" width = 260>
+<img src="../images/walkerhall.jpg" caption="Walker Hall" width = 260>
 </figure>
 </center>
 
