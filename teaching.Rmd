@@ -12,6 +12,8 @@ output: html_document
 * [STT 3530 Data Science 1](https://stat-jet-asu.github.io/DataScience1/)
 * [STT 3850 Statistical Data Analysis 1](https://stat-jet-asu.github.io/StatisticalDataAnalysis1/)
 * [GitHub Course Repositories](https://github.com/STAT-JET-ASU)
+* [StatCrunch](https://www.statcrunch.com/)
+* [WebAssign](https://www.webassign.com/)
 
 This page was last updated on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`
 
