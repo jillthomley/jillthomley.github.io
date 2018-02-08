@@ -16,8 +16,6 @@ title: "Welcome!"
 
 &nbsp;
 
-&nbsp;
-
 This page was last updated on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`
 
 
