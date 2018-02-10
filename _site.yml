@@ -12,7 +12,7 @@ navbar:
       href: scholarship.html
     - text: "Other Links"
       href: otherlinks.html
-    - text: "Dr. Arnholt's Computer Resources"
+    - text: "Arnholt's Computing Resources"
       href: https://alanarnholt.github.io/resources.html
     
   right:
