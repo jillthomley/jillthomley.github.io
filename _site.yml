@@ -10,10 +10,10 @@ navbar:
       href: teaching.html
     - text: "Scholarship"
       href: scholarship.html
-    - text: "Resources"
-      href: resources.html
     - text: "Other Links"
       href: otherlinks.html
+    - text: "Dr. Arnholt's Computer Resources"
+      href: https://alanarnholt.github.io/resources.html
     
   right:
     - text: ""
