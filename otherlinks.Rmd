@@ -3,9 +3,23 @@ title: "Other Links"
 output: html_document
 ---
 
-* [ASU Recreation Center](http://urec.appstate.edu/student-recreation-center)
-* [Ray's Weather Center](http://booneweather.com/)
+## Statistics and Data Science
+
+* [American Statistical Association](http://www.amstat.org/)
+* [Association for Women in Mathematics](https://sites.google.com/site/awmmath/home)
+* [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/)
 * More TBA!
+
+## ASU and Boone Area
+
+* [ASU Recreation Center](http://urec.appstate.edu/student-recreation-center)
+* More TBA!
+
+## Weather
+
+* [Ray's Weather Center](http://booneweather.com/)
+* [NWS National Radar Loop](https://radar.weather.gov/Conus/full_loop.php)
+* [NWS Probabilistic Snowfall Forecasts](http://www.weather.gov/rnk/winter)
 
 This page was last updated on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`
 

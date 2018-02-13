@@ -4,17 +4,16 @@ title: "Welcome!"
 
 * * * 
 
-<figure><img src="./images/Me-Medium.jpg" alt="Jill" align="left" hspace="20" style="width:125px;height:125px;"></figure>
- 
-&nbsp;
+"We are in the era of big data, and big data needs statisticians to make sense of it. The democratization of data means that those who can analyze it well will win. Data is the sword of the twenty-first century, those who wield it well, the samurai." --- Eric Schmidt & Jonathan Rosenberg, in their book *How Google Works*
 
-&nbsp;
+My Current Interests:
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+* data science and data science education
+* statistics and statistics education
+* history of statistics / data science
+* women and minorities in statistics
+* statistics in popular culture
+* standards-based grading
 
 This page was last updated on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`
 
