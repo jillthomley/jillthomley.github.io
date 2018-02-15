@@ -21,8 +21,4 @@ output: html_document
 * [STT 3850 Statistical Data Analysis 1](https://stat-jet-asu.github.io/StatisticalDataAnalysis1/)
 
 
-
-This page was last updated on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`
-
-
 * * *
