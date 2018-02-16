@@ -6,7 +6,7 @@ title: "Welcome!"
 
 "We are in the era of big data, and big data needs statisticians to make sense of it. The democratization of data means that those who can analyze it well will win. Data is the sword of the twenty-first century, those who wield it well, the samurai." --- Eric Schmidt & Jonathan Rosenberg, in their book *How Google Works*
 
-**Current Scholarly Interests**
+**Scholarly and Pedagogical Interests**
 
 * statistics education
 * data science education
