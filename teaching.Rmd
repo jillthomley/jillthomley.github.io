@@ -15,7 +15,7 @@ output: html_document
 
 ## Spring 2018
 
-* STT 1810 Basic Statistics ([Course Pacing](https://stat-jet-asu.github.io/BasicStatistics/CoursePacing/CoursePacingS18.html))
+* STT 1810 Basic Statistics ([Schedule](https://stat-jet-asu.github.io/BasicStatistics/Schedule/ScheduleS18.html))
 * [STT 3500 Intermediate Statistical Graphing](https://stat-jet-asu.github.io/IntermediateStatisticalGraphing/)
 * [STT 3530 Data Science 1](https://stat-jet-asu.github.io/DataScience1/)
 * [STT 3850 Statistical Data Analysis 1](https://stat-jet-asu.github.io/StatisticalDataAnalysis1/)
