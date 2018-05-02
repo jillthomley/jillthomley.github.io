@@ -11,7 +11,7 @@
 
 
 
-<title>Dr. Thomley’s Spring 2018 Schedule</title>
+<title>Dr. Thomley’s Spring 2018 Exam Schedule</title>
 
 <script src="site_libs/jquery-1.12.4/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,13 +19,10 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<script src="site_libs/htmlwidgets-1.0/htmlwidgets.js"></script>
+<script src="site_libs/htmlwidgets-1.2/htmlwidgets.js"></script>
 <link href="site_libs/leaflet-0.7.7/leaflet.css" rel="stylesheet" />
 <script src="site_libs/leaflet-0.7.7/leaflet.js"></script>
 <link href="site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet" />
@@ -177,107 +174,6 @@ $(document).ready(function () {
 
 
 
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = false;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
-
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-  padding-left: 25px;
-  text-indent: 0;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-.tocify-subheader {
-  display: inline;
-}
-.tocify-subheader .tocify-item {
-  font-size: 0.95em;
-}
-
-</style>
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
-
-
 
 
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
@@ -331,15 +227,14 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Dr. Thomley’s Spring 2018 Schedule</h1>
+<h1 class="title toc-ignore">Dr. Thomley’s Spring 2018 Exam Schedule</h1>
 
 </div>
 
 
 <hr />
-<div id="office-hours" class="section level2">
-<h2>Office Hours <i class="fa fa-clock-o"></i></h2>
-<p>My office is 228 Walker Hall. Students may schedule an appointment online using <a href="https://thomleyje.youcanbook.me/">book now</a>. Drop-ins during office hours are welcomed and encouraged, but appointments will take precedence.</p>
+<div id="exams-and-office-hours" class="section level2">
+<h2>Exams and Office Hours <i class="fa fa-clock-o"></i></h2>
 <table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
@@ -347,81 +242,50 @@ div.tocify {
 Time
 </th>
 <th style="text-align:center;">
-Monday
+Thu_3rd
 </th>
 <th style="text-align:center;">
-Tuesday
+Fri_4th
 </th>
 <th style="text-align:center;">
-Wednesday
+Mon_7th
 </th>
 <th style="text-align:center;">
-Thursday
+Tue_8th
 </th>
 <th style="text-align:center;">
-Friday
+Wed_9th
+</th>
+<th style="text-align:center;">
+Thu_10th
+</th>
+<th style="text-align:center;">
+Fri_11th
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="text-align:center;">
-09:00-09:30
-</td>
-<td style="text-align:center;">
-—
-</td>
-<td style="text-align:center;">
-—
-</td>
-<td style="text-align:center;">
-—
-</td>
-<td style="text-align:center;">
-—
-</td>
-<td style="text-align:center;">
-Scholarship
-</td>
-</tr>
-<tr>
-<td style="text-align:center;">
-09:30-10:00
-</td>
-<td style="text-align:center;">
-—
-</td>
-<td style="text-align:center;">
-—
-</td>
-<td style="text-align:center;">
-—
-</td>
-<td style="text-align:center;">
-—
-</td>
-<td style="text-align:center;">
-Scholarship
-</td>
-</tr>
-<tr>
-<td style="text-align:center;">
 10:00-10:30
 </td>
 <td style="text-align:center;">
-—
+Meeting
 </td>
 <td style="text-align:center;">
-Class Prep
+State Math Fair
 </td>
 <td style="text-align:center;">
-Class Prep
 </td>
 <td style="text-align:center;">
-Class Prep
 </td>
 <td style="text-align:center;">
-Scholarship
+Grading
+</td>
+<td style="text-align:center;">
+</td>
+<td style="text-align:center;">
+Grading
 </td>
 </tr>
 <tr>
@@ -429,19 +293,22 @@ Scholarship
 10:30-11:00
 </td>
 <td style="text-align:center;">
-—
+Meeting
 </td>
 <td style="text-align:center;">
-*OFFICE HOUR
+State Math Fair
 </td>
 <td style="text-align:center;">
-*OFFICE HOUR
 </td>
 <td style="text-align:center;">
-*OFFICE HOUR
 </td>
 <td style="text-align:center;">
-Scholarship
+Grading
+</td>
+<td style="text-align:center;">
+</td>
+<td style="text-align:center;">
+Grading
 </td>
 </tr>
 <tr>
@@ -449,19 +316,24 @@ Scholarship
 11:00-11:30
 </td>
 <td style="text-align:center;">
-—
+Meeting
+</td>
+<td style="text-align:center;">
+State Math Fair
 </td>
 <td style="text-align:center;">
 *OFFICE HOUR
 </td>
 <td style="text-align:center;">
-*OFFICE HOUR
 </td>
 <td style="text-align:center;">
-*OFFICE HOUR
+Grading
 </td>
 <td style="text-align:center;">
-Scholarship
+STT3850 FINAL
+</td>
+<td style="text-align:center;">
+Grading
 </td>
 </tr>
 <tr>
@@ -469,19 +341,24 @@ Scholarship
 11:30-12:00
 </td>
 <td style="text-align:center;">
-—
+Meeting
 </td>
 <td style="text-align:center;">
-Class Prep
+State Math Fair
 </td>
 <td style="text-align:center;">
 *OFFICE HOUR
 </td>
 <td style="text-align:center;">
-Class Prep
 </td>
 <td style="text-align:center;">
-Scholarship
+Grading
+</td>
+<td style="text-align:center;">
+STT3850 FINAL
+</td>
+<td style="text-align:center;">
+Grading
 </td>
 </tr>
 <tr>
@@ -489,19 +366,24 @@ Scholarship
 12:00-12:30
 </td>
 <td style="text-align:center;">
-—
+*OFFICE HOUR
 </td>
 <td style="text-align:center;">
-Class Prep
+State Math Fair
 </td>
 <td style="text-align:center;">
-Class Prep
+*OFFICE HOUR
 </td>
 <td style="text-align:center;">
-Class Prep
 </td>
 <td style="text-align:center;">
-Scholarship
+Grading
+</td>
+<td style="text-align:center;">
+STT3850 FINAL
+</td>
+<td style="text-align:center;">
+Grading
 </td>
 </tr>
 <tr>
@@ -509,19 +391,24 @@ Scholarship
 12:30-01:00
 </td>
 <td style="text-align:center;">
-—
+*OFFICE HOUR
 </td>
 <td style="text-align:center;">
-STT3850
+State Math Fair
 </td>
 <td style="text-align:center;">
-Class Prep
+*OFFICE HOUR
 </td>
 <td style="text-align:center;">
-STT3850
 </td>
 <td style="text-align:center;">
-Scholarship
+Grading
+</td>
+<td style="text-align:center;">
+STT3850 FINAL
+</td>
+<td style="text-align:center;">
+Grading
 </td>
 </tr>
 <tr>
@@ -529,19 +416,24 @@ Scholarship
 01:00-01:30
 </td>
 <td style="text-align:center;">
-—
+*OFFICE HOUR
 </td>
 <td style="text-align:center;">
-STT3850
+State Math Fair
 </td>
 <td style="text-align:center;">
-STT3850
+*OFFICE HOUR
 </td>
 <td style="text-align:center;">
-STT3850
 </td>
 <td style="text-align:center;">
-Scholarship
+Grading
+</td>
+<td style="text-align:center;">
+STT3850 FINAL
+</td>
+<td style="text-align:center;">
+Grading
 </td>
 </tr>
 <tr>
@@ -549,19 +441,23 @@ Scholarship
 01:30-02:00
 </td>
 <td style="text-align:center;">
-—
+*OFFICE HOUR
 </td>
 <td style="text-align:center;">
-STT3850
+State Math Fair
 </td>
 <td style="text-align:center;">
-STT3850
+*OFFICE HOUR
 </td>
 <td style="text-align:center;">
-STT3850
 </td>
 <td style="text-align:center;">
-Scholarship
+Grading
+</td>
+<td style="text-align:center;">
+</td>
+<td style="text-align:center;">
+Grading
 </td>
 </tr>
 <tr>
@@ -569,19 +465,25 @@ Scholarship
 02:00-02:30
 </td>
 <td style="text-align:center;">
-—
+*OFFICE HOUR
 </td>
 <td style="text-align:center;">
-STT1810
+State Math Fair
 </td>
 <td style="text-align:center;">
 *OFFICE HOUR
 </td>
 <td style="text-align:center;">
-STT1810
+STT1810 FINAL
 </td>
 <td style="text-align:center;">
-Scholarship
+Grading
+</td>
+<td style="text-align:center;">
+STT3530 FINAL
+</td>
+<td style="text-align:center;">
+Grading
 </td>
 </tr>
 <tr>
@@ -589,19 +491,25 @@ Scholarship
 02:30-03:00
 </td>
 <td style="text-align:center;">
-—
+*OFFICE HOUR
 </td>
 <td style="text-align:center;">
-STT1810
+State Math Fair
 </td>
 <td style="text-align:center;">
 *OFFICE HOUR
 </td>
 <td style="text-align:center;">
-STT1810
+STT1810 FINAL
 </td>
 <td style="text-align:center;">
-Scholarship
+Grading
+</td>
+<td style="text-align:center;">
+STT3530 FINAL
+</td>
+<td style="text-align:center;">
+Grading
 </td>
 </tr>
 <tr>
@@ -609,19 +517,25 @@ Scholarship
 03:00-03:30
 </td>
 <td style="text-align:center;">
-—
+*OFFICE HOUR
 </td>
 <td style="text-align:center;">
-STT1810
+State Math Fair
 </td>
 <td style="text-align:center;">
-Dept Meeting
+*OFFICE HOUR
 </td>
 <td style="text-align:center;">
-STT1810
+STT1810 FINAL
 </td>
 <td style="text-align:center;">
-Scholarship
+Grading
+</td>
+<td style="text-align:center;">
+STT3530 FINAL
+</td>
+<td style="text-align:center;">
+Grading
 </td>
 </tr>
 <tr>
@@ -629,19 +543,25 @@ Scholarship
 03:30-04:00
 </td>
 <td style="text-align:center;">
-—
+*OFFICE HOUR
 </td>
 <td style="text-align:center;">
-STT3530
+State Math Fair
 </td>
 <td style="text-align:center;">
-Dept Meeting
+*OFFICE HOUR
 </td>
 <td style="text-align:center;">
-STT3530
+STT1810 FINAL
 </td>
 <td style="text-align:center;">
-Scholarship
+Grading
+</td>
+<td style="text-align:center;">
+STT3530 FINAL
+</td>
+<td style="text-align:center;">
+Grading
 </td>
 </tr>
 <tr>
@@ -649,19 +569,23 @@ Scholarship
 04:00-04:30
 </td>
 <td style="text-align:center;">
-—
 </td>
 <td style="text-align:center;">
-STT3530
+State Math Fair
 </td>
 <td style="text-align:center;">
-Misc Meeting
 </td>
 <td style="text-align:center;">
-STT3530
+STT1810 FINAL
 </td>
 <td style="text-align:center;">
-Scholarship
+Grading
+</td>
+<td style="text-align:center;">
+STT3530 FINAL
+</td>
+<td style="text-align:center;">
+Grading
 </td>
 </tr>
 <tr>
@@ -669,19 +593,21 @@ Scholarship
 04:30-05:00
 </td>
 <td style="text-align:center;">
-—
 </td>
 <td style="text-align:center;">
-STT3530
+State Math Fair
 </td>
 <td style="text-align:center;">
-Misc Meeting
 </td>
 <td style="text-align:center;">
-STT3530
 </td>
 <td style="text-align:center;">
-Scholarship
+Grading
+</td>
+<td style="text-align:center;">
+</td>
+<td style="text-align:center;">
+Grading
 </td>
 </tr>
 <tr>
@@ -689,19 +615,21 @@ Scholarship
 05:00-05:30
 </td>
 <td style="text-align:center;">
-—
 </td>
 <td style="text-align:center;">
-—
+State Math Fair
 </td>
 <td style="text-align:center;">
-—
 </td>
 <td style="text-align:center;">
-*OFFICE HOUR
 </td>
 <td style="text-align:center;">
-—
+Grading
+</td>
+<td style="text-align:center;">
+</td>
+<td style="text-align:center;">
+Grading
 </td>
 </tr>
 <tr>
@@ -709,19 +637,21 @@ Scholarship
 05:30-06:00
 </td>
 <td style="text-align:center;">
-Rehearsal
 </td>
 <td style="text-align:center;">
-IRB
+State Math Fair
 </td>
 <td style="text-align:center;">
-—
 </td>
 <td style="text-align:center;">
-—
 </td>
 <td style="text-align:center;">
-—
+Grading
+</td>
+<td style="text-align:center;">
+</td>
+<td style="text-align:center;">
+Grading
 </td>
 </tr>
 <tr>
@@ -729,19 +659,21 @@ IRB
 06:00-06:30
 </td>
 <td style="text-align:center;">
-Rehearsal
 </td>
 <td style="text-align:center;">
-IRB
+State Math Fair
 </td>
 <td style="text-align:center;">
-—
 </td>
 <td style="text-align:center;">
-—
 </td>
 <td style="text-align:center;">
-—
+Grading
+</td>
+<td style="text-align:center;">
+</td>
+<td style="text-align:center;">
+Grading
 </td>
 </tr>
 <tr>
@@ -749,79 +681,21 @@ IRB
 06:30-07:00
 </td>
 <td style="text-align:center;">
-Rehearsal
 </td>
 <td style="text-align:center;">
-IRB
+State Math Fair
 </td>
 <td style="text-align:center;">
-—
 </td>
 <td style="text-align:center;">
-—
 </td>
 <td style="text-align:center;">
-—
-</td>
-</tr>
-<tr>
-<td style="text-align:center;">
-07:00-07:30
+Grading
 </td>
 <td style="text-align:center;">
-Rehearsal
 </td>
 <td style="text-align:center;">
-IRB/Rehearsal
-</td>
-<td style="text-align:center;">
-—
-</td>
-<td style="text-align:center;">
-—
-</td>
-<td style="text-align:center;">
-—
-</td>
-</tr>
-<tr>
-<td style="text-align:center;">
-07:30-08:00
-</td>
-<td style="text-align:center;">
-Rehearsal
-</td>
-<td style="text-align:center;">
-IRB/Rehearsal
-</td>
-<td style="text-align:center;">
-—
-</td>
-<td style="text-align:center;">
-—
-</td>
-<td style="text-align:center;">
-—
-</td>
-</tr>
-<tr>
-<td style="text-align:center;">
-08:00-08:30
-</td>
-<td style="text-align:center;">
-Rehearsal
-</td>
-<td style="text-align:center;">
-IRB/Rehearsal
-</td>
-<td style="text-align:center;">
-—
-</td>
-<td style="text-align:center;">
-—
-</td>
-<td style="text-align:center;">
-—
+Grading
 </td>
 </tr>
 </tbody>
@@ -831,8 +705,8 @@ IRB/Rehearsal
 <div id="find-walker-hall" class="section level2">
 <h2>Find Walker Hall <i class="fa fa-map-marker"></i></h2>
 <p>Use the leaflet map below to find Walker Hall.</p>
-<div id="htmlwidget-7300a3220ed6174d4066" style="width:672px;height:480px;" class="leaflet html-widget"></div>
-<script type="application/json" data-for="htmlwidget-7300a3220ed6174d4066">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"setView":[[36.216777,-81.684954],16,[]],"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"maxNativeZoom":null,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"continuousWorld":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":null,"unloadInvisibleTiles":null,"updateWhenIdle":null,"detectRetina":false,"reuseTiles":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addMarkers","args":[36.216777,-81.684954,null,null,null,{"clickable":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"Walker Hall",null,null,null,null,null,null]}],"limits":{"lat":[36.216777,36.216777],"lng":[-81.684954,-81.684954]}},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-972a2515e73dd4fca7c8" style="width:672px;height:480px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-972a2515e73dd4fca7c8">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"setView":[[36.216777,-81.684954],16,[]],"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"maxNativeZoom":null,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"continuousWorld":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":null,"unloadInvisibleTiles":null,"updateWhenIdle":null,"detectRetina":false,"reuseTiles":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addMarkers","args":[36.216777,-81.684954,null,null,null,{"clickable":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"Walker Hall",null,null,null,null,null,null]}],"limits":{"lat":[36.216777,36.216777],"lng":[-81.684954,-81.684954]}},"evals":[],"jsHooks":[]}</script>
 <hr />
 </div>
 <div id="asu-dates-and-times" class="section level2">
@@ -873,8 +747,6 @@ Phone: 828-262-2383<br>
 </div>
 
 
-</div>
-</div>
 
 </div>
 
