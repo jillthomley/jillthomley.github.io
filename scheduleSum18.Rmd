@@ -1,0 +1,70 @@
+---
+title: "Dr. Thomley's 2018 Summer 1 Schedule"
+output: 
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+---
+
+* * *
+
+## My Office Hours <i class="fa fa-clock-o"></i>
+
+Office hours before class will be held in the classroom. After class we will meet in my office.
+
+```{r, echo = FALSE}
+library(kableExtra)
+df <- data.frame(Time = c("09:30-10:20",
+                          "10:20-12:30", 
+                          "12:30-01:00"), 
+                 Monday = c("Office Hour",
+                            "STT3850",
+                            "Office Hour"), 
+                 Tuesday = c("Office Hour",
+                             "STT3850",
+                             "Office Hour"), 
+                 Wednesday = c("Office Hour",
+                               "STT3850",
+                               "Office Hour"), 
+                 Thursday = c("Office Hour",
+                              "STT3850",
+                              "Office Hour"), 
+                 Friday = c("Office Hour",
+                            "STT3850",
+                            "---")
+)
+knitr::kable(df, format="html", align = c("c","c","c","c","c","c")) %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+```
+
+* * *
+
+```{r include = FALSE}
+library(leaflet)
+library(dplyr)
+```
+
+## Locate Walker Hall <i class="fa fa-map-marker"></i>
+
+Use the leaflet map below to find Walker Hall.
+
+```{r, echo = FALSE}
+leaflet() %>%
+  setView(lng=-81.684954, lat=36.216777, zoom = 16) %>% 
+  addTiles() %>%
+  addMarkers(lng=-81.684954, lat=36.216777, popup="Walker Hall") 
+```
+
+* * *
+
+## ASU Dates and Times <i class="fa fa-calendar-check-o"></i>
+
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-calendar"></i>[Academic Calendar](https://registrar.appstate.edu/calendars-schedules/academic-calendar)</li>
+  <li><i class="fa-li fa fa-list"></i>[Final Exam Schedule](https://registrar.appstate.edu/calendars-schedules/exam-schedule-0)</li>
+  <li><i class="fa-li fa fa-graduation-cap"></i>[Registration and Classes](https://registrar.appstate.edu/students/registration-classes)</li>
+</ul>
+
+
+* * *

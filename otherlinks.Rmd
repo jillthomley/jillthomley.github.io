@@ -10,16 +10,20 @@ output: html_document
 * [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/)
 * More TBA!
 
-## ASU and Boone Area
+## Appalachian State University
+
+* TBA
+* TBA
+
+## Recreation
 
 * [ASU Recreation Center](http://urec.appstate.edu/student-recreation-center)
-* More TBA!
+* [Watauga County swim Complex](http://www.wataugacounty.org/App_Pages/Dept/ParksRec/Aquatics/aquaticsHome.aspx)
 
 ## Weather
 
 * [Ray's Weather Center](http://booneweather.com/)
 * [NWS National Radar Loop](https://radar.weather.gov/Conus/full_loop.php)
 * [NWS Probabilistic Snowfall Forecasts](http://www.weather.gov/rnk/winter)
-
 
 * * *
