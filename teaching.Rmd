@@ -12,9 +12,15 @@ output: html_document
 * [StatCrunch](https://www.statcrunch.com/)
 * [WebAssign](https://www.webassign.com/)
 
+## Spring 2018
+
+* STT3500 Intermediate Statistical Graphing
+* STT3530 Data Science 1
+* STT3850 Statistical Data Analysis 1
+
 ## Summer 2018
 
-* STT3850 Statistical Data Anlaysis 1
+* STT3850 Statistical Data Analysis 1
 
 ## Spring 2018
 

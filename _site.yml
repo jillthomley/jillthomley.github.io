@@ -5,7 +5,7 @@ navbar:
   title: "Jill E. Thomley"
   left:
     - text: "Schedule"
-      href: scheduleSum18.html
+      href: scheduleF18.html
     - text: "Teaching"
       href: teaching.html
     - text: "Scholarship"

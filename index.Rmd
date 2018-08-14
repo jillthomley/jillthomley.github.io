@@ -10,11 +10,11 @@ title: "Welcome!"
 
 * statistics education
 * data science education
-* statistics in popular culture
+* standards-based grading
+* electronic student engagement
 * history of statistics / data science
 * women and minorities in statistics
-* electronic student engagement
-* standards-based grading
+* statistics in popular culture
 
 *This site was last rendered on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`*
 
