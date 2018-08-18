@@ -15,7 +15,7 @@ output: html_document
 ## Spring 2018
 
 * STT3500 Intermediate Statistical Graphing
-* STT3530 Data Science 1
+* [STT3530 Data Science 1](https://stat-jet-asu.github.io/DataScience1/)
 * STT3850 Statistical Data Analysis 1
 
 ## Summer 2018
