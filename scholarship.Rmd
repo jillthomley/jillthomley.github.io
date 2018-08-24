@@ -3,9 +3,29 @@ title: "Scholarship"
 output: html_document
 ---
 
-* * *
+<hr>
 
-## TBA 
+## Recent Publications
+
+Henson, K.S., Thomley, J.E., Lowrie, L., and Walker, D. “Comparison of Selected Outcomes Associated with Two Post-Operative Analgesia Approaches in the Total Knee Arthroplasty Patient,” _American Association of Nurse Anesthetists Journal_, accepted for publication, anticipated in print 2018.
+
+Thomley, J.E. “The History of Statistics: A Discussion-Intensive Seminar on 20th Century Development and Beyond,” In Amy Shell-Gellasch and Dick Jardine (eds.), _The Courses of History: Ideas for Developing a History of Mathematics Course (MAA Notes Series)_, accepted for publication, anticipated in print 2018.
+
+Thomley, J.E. (2018). “[Example of a Well-Designed Course in Statistics](http://www.designlearning.org/examples-of-design/examples/),” _Designing Significant Learning Experiences: Course Examples_. 
+
+Santisteban, M.S., Thomley, J.E., and Bullard-Dillard, R. (2017). “S-STEM Scholarship Program at UNC Pembroke: a COMPASS for Science Majors,” _Proceedings of the ASEE Annual Conference & Exposition_ (pp. 5984-6005).  Washington, DC: American Society for Engineering Education.
+
+Hahn, D.C., Wingfield, J.C., Fox, D.M., Walker, B.G., and Thomley, J.E. (2017). “Maternal Androgens in Avian Brood Parasites and Their Hosts: Responses to Parasitism and Competition?” _General and Comparative Endocrinology_, 240, 143-152.
+
+## The Encyclopedia of Mathematics and Society
+
+Greenwald, S.J. and Thomley, J.E. (Eds). (2011). _The Encyclopedia of Mathematics and Society, Vols. 1-3_. Pasadena, CA: Salem Press. ISBN: 978-1-58765-844-0, e-ISBN: 978-1-58765-848-8
+
+_The goal of The	Encyclopedia	of	Mathematics	and	Society is to weave multilayered connections between society, history, people, applications, and mathematics ... In general, the articles do not teach or present detailed mathematical theory, derivations, and equations ... Instead, we intended them to serve as a foundation and jumping-off point for additional explorations. As mathematics professor and educator Art Johnson has noted in other settings, we hope that this type of contextualization helps people to "see mathematics as a discipline that transcends culture, time, and gender, and as a discipline for everyone, everywhere."_ (Introduction, p. x)
 
 
-* * *
+"This enlightening, well-written set, which has no current competitors, is highly recommended for all public and academic libraries. The material offers an entirely new way of looking at things." --- [Library Journal](https://www.libraryjournal.com/) Best Reference, 2011  
+
+Digital access to the _Encyclopedia of Mathematics and Society_ is available through the [ASU Library](https://library.appstate.edu/).
+
+<hr>

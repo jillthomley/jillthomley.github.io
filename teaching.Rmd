@@ -3,20 +3,13 @@ title: "Teaching"
 output: html_document
 ---
 
-* * *
+<hr>
 
-## Resources
+## Fall 2018
 
-* [GitHub Course Repositories](https://github.com/STAT-JET-ASU)
-* [ASU R Studio Server](https://mathr.math.appstate.edu)
-* [StatCrunch](https://www.statcrunch.com/)
-* [WebAssign](https://www.webassign.com/)
-
-## Spring 2018
-
-* STT3500 Intermediate Statistical Graphing
-* [STT3530 Data Science 1](https://stat-jet-asu.github.io/DataScience1/)
-* [STT3850 Statistical Data Analysis 1](https://stat-jet-asu.github.io/StatisticalDataAnalysis1/)
+* STT3500 Intermediate Data Visualization in R
+* [STT3530 Data Science 1](https://stat-jet-asu.github.io/DataScience1/) 
+* [STT3850 Statistical Data Analysis 1](https://stat-jet-asu.github.io/StatisticalDataAnalysis1/) (&times; 2)
 
 ## Summer 2018
 
@@ -29,4 +22,11 @@ output: html_document
 * STT3530 Data Science 1
 * STT3850 Statistical Data Analysis 1
 
-* * *
+## Resources
+
+* [GitHub Course Repositories](https://github.com/STAT-JET-ASU)
+* [ASU R Studio Server](https://mathr.math.appstate.edu)
+* [StatCrunch](https://www.statcrunch.com/)
+* [WebAssign](https://www.webassign.com/)
+
+<hr>

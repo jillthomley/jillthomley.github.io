@@ -3,6 +3,8 @@ title: "Other Links"
 output: html_document
 ---
 
+<hr>
+
 ## Statistics and Data Science
 
 * [American Statistical Association](http://www.amstat.org/)
@@ -10,15 +12,14 @@ output: html_document
 * [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/)
 * More TBA!
 
-## Appalachian State University
+## ASU
 
 * TBA
-* TBA
-
-## Recreation
-
 * [ASU Recreation Center](http://urec.appstate.edu/student-recreation-center)
-* [Watauga County swim Complex](http://www.wataugacounty.org/App_Pages/Dept/ParksRec/Aquatics/aquaticsHome.aspx)
+
+## Boone
+
+* [Watauga County Swim Complex](http://www.wataugacounty.org/App_Pages/Dept/ParksRec/Aquatics/aquaticsHome.aspx)
 
 ## Weather
 
@@ -26,4 +27,4 @@ output: html_document
 * [NWS National Radar Loop](https://radar.weather.gov/Conus/full_loop.php)
 * [NWS Probabilistic Snowfall Forecasts](http://www.weather.gov/rnk/winter)
 
-* * *
+<hr>

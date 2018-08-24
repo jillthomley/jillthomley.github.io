@@ -10,6 +10,8 @@ navbar:
       href: teaching.html
     - text: "Scholarship"
       href: scholarship.html
+    - text: "Service"
+      href: service.html
     - text: "Other Links"
       href: otherlinks.html
     - text: "Arnholt's Computing Resources"

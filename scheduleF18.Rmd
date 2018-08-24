@@ -7,7 +7,7 @@ output:
       collapsed: false
 ---
 
-* * *
+<hr>
 
 ## Office Hours <i class="fa fa-clock-o"></i>
 
@@ -145,4 +145,4 @@ leaflet() %>%
 </ul>
 
 
-* * *
+<hr>
