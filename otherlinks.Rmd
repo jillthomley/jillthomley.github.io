@@ -5,23 +5,46 @@ output: html_document
 
 <hr>
 
-## Statistics and Data Science
+## Appalachian State
+
+* [Academic Affairs](https://academicaffairs.appstate.edu/)
+* [AppalAIR](https://appalair.appstate.edu/)
+* [Banner](https://bannerweb.appstate.edu/pls/PROD/twbkwbis.P_WWWLogin)
+* [Degree Works](https://dw.appstate.edu/Dashboard/login.html)
+* [Exam Schedule](https://registrar.appstate.edu/calendars-schedules/exam-schedule-0)
+* [Faculty Handbook](https://facultyhandbook.appstate.edu/)
+* [Mathematical Sciences](https://mathsci.appstate.edu/)
+* [Office of the Registrar](https://registrar.appstate.edu/)
+* [Office of Student Conduct](https://studentconduct.appstate.edu/)
+* [Student Rec Center](http://urec.appstate.edu/student-recreation-center)
+
+## Professional Organizations
 
 * [American Statistical Association](http://www.amstat.org/)
 * [Association for Women in Mathematics](https://sites.google.com/site/awmmath/home)
-* [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/)
-* More TBA!
+* [Mathematical Association of America](https://www.maa.org/)
+* [North Carolina Council of Teachers of Mathematics](https://www.ncctm.org/)
 
-## ASU
+## Statistics and Data Science
 
-* TBA
-* [ASU Recreation Center](http://urec.appstate.edu/student-recreation-center)
+* [ASA Develops Reproducible Research Recommendations](https://www.amstat.org/ASA/News/ASA-Develops-Reproducible-Research-Recommendations.aspx)
+* [ASA Statement on the Role of Statistics in Data Science](http://magazine.amstat.org/blog/2015/10/01/asa-statement-on-the-role-of-statistics-in-data-science/)
+* [Ethical Guidelines for Statistical Practice](http://www.amstat.org/ASA/Your-Career/Ethical-Guidelines-for-Statistical-Practice.aspx)
+* [Reproducible Research in Computational Science](http://science.sciencemag.org/content/334/6060/1226)
+* [The Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/)
 
-## Boone
 
+## Local Information
+
+* [GoBlueRidge](https://www.goblueridge.net/news)
+* [Blowing Rocket](https://www.wataugademocrat.com/blowingrocket/)
+* [Mountain Times](https://www.wataugademocrat.com/mountaintimes/)
+* [Watauga Democrat](https://www.wataugademocrat.com/)
+* [High Country Press](https://www.hcpress.com/)
+* [Boone Area Chamber of Commerce](https://www.boonechamber.com/)
 * [Watauga County Swim Complex](http://www.wataugacounty.org/App_Pages/Dept/ParksRec/Aquatics/aquaticsHome.aspx)
 
-## Weather
+## Weather Services
 
 * [Ray's Weather Center](http://booneweather.com/)
 * [NWS National Radar Loop](https://radar.weather.gov/Conus/full_loop.php)
