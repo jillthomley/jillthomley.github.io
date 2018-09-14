@@ -20,7 +20,8 @@ navbar:
     - text: ""
       icon: glyphicon-info-sign
       href: about.html
-    - icon: fa-github fa-lg
+    - text: ""
+      icon: fa-github fa-lg
       href: https://github.com/jillthomley/jillthomley.github.io/
     
 output:
