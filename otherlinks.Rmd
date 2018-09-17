@@ -21,6 +21,7 @@ output: html_document
 ## Professional Organizations
 
 * [American Statistical Association](http://www.amstat.org/)
+* [American Statistical Association, NC Chapter](http://community.amstat.org/northcarolina/home)
 * [Association for Women in Mathematics](https://sites.google.com/site/awmmath/home)
 * [Mathematical Association of America](https://www.maa.org/)
 * [North Carolina Council of Teachers of Mathematics](https://www.ncctm.org/)
