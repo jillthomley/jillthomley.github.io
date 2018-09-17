@@ -28,6 +28,7 @@ output: html_document
 
 ## Statistics and Data Science
 
+* [AMSTAT News Archives](http://magazine.amstat.org/archives/)
 * [ASA Develops Reproducible Research Recommendations](https://www.amstat.org/ASA/News/ASA-Develops-Reproducible-Research-Recommendations.aspx)
 * [ASA Statement on the Role of Statistics in Data Science](http://magazine.amstat.org/blog/2015/10/01/asa-statement-on-the-role-of-statistics-in-data-science/)
 * [Ethical Guidelines for Statistical Practice](http://www.amstat.org/ASA/Your-Career/Ethical-Guidelines-for-Statistical-Practice.aspx)
