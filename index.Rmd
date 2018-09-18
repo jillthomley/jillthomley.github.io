@@ -14,7 +14,7 @@ title: "Welcome!"
 * electronic student engagement
 * history of statistics / data science
 * women and minorities in statistics
-* statistics in popular culture
+* mathematics / statistics in popular culture
 * [Woman in Mathematics Patch for Girl Scouts](https://cs.appstate.edu/~sjg/awm/earnedbadge.html)
 
 *This site was last rendered on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`*
