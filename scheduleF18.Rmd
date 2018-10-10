@@ -115,7 +115,7 @@ knitr::kable(df, format="html", align = c("c","c","c","c","c","c")) %>%
   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 ```
 
-* * *
+<hr>
 
 ```{r include = FALSE}
 library(leaflet)
@@ -134,7 +134,7 @@ leaflet() %>%
   addMarkers(lng=-81.684954, lat=36.216777, popup="Walker Hall") 
 ```
 
-* * *
+<hr>
 
 ## ASU Dates and Times <i class="fa fa-calendar-check-o"></i>
 
