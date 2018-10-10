@@ -1,17 +1,11 @@
 ---
 title: "Dr. Thomley's Fall 2018 Schedule"
-output: 
-  html_document:
-    toc: true
-    toc_float:
-      collapsed: false
+output: html_document
 ---
 
 <hr>
 
-## Office Hours <i class="fa fa-clock-o"></i>
-
-My office is 228 Walker Hall. Students may schedule an appointment online using [book now](https://thomleyje.youcanbook.me/). Drop-ins during office hours are welcomed and encouraged, but appointments will take precedence.
+My office is located in 228 Walker Hall. Students may schedule an appointment online using [book now](https://thomleyje.youcanbook.me/). Drop-ins during office hours are welcomed and encouraged, but appointments will take precedence. Students enrolled in my classes should use their private forums on AsULearn to contact me electronically when needed. 
 
 ```{r, echo = FALSE}
 library(kableExtra)
@@ -114,35 +108,5 @@ df <- data.frame(Time = c("09:00-09:30",
 knitr::kable(df, format="html", align = c("c","c","c","c","c","c")) %>%
   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 ```
-
-<hr>
-
-```{r include = FALSE}
-library(leaflet)
-library(dplyr)
-```
-
-## Find Walker Hall <i class="fa fa-map-marker"></i>
-
-Use the leaflet map below to find Walker Hall.
- 
-
-```{r, echo = FALSE}
-leaflet() %>%
-  setView(lng=-81.684954, lat=36.216777, zoom = 16) %>% 
-  addTiles() %>%
-  addMarkers(lng=-81.684954, lat=36.216777, popup="Walker Hall") 
-```
-
-<hr>
-
-## ASU Dates and Times <i class="fa fa-calendar-check-o"></i>
-
-<ul class="fa-ul">
-  <li><i class="fa-li fa fa-calendar"></i>[Academic Calendar](https://registrar.appstate.edu/calendars-schedules/academic-calendar)</li>
-  <li><i class="fa-li fa fa-list"></i>[Final Exam Schedule](https://registrar.appstate.edu/calendars-schedules/exam-schedule-0)</li>
-  <li><i class="fa-li fa fa-graduation-cap"></i>[Registration and Classes](https://registrar.appstate.edu/students/registration-classes)</li>
-</ul>
-
 
 <hr>
