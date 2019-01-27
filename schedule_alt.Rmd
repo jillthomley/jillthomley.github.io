@@ -7,6 +7,8 @@ output: html_document
 
 My office is located in 228 Walker Hall. Students enrolled in my classes should use their private forums on AsULearn to contact me electronically when needed. I will not answer direct email from currently enrolled students.
 
+**This schedule is for the week of 01/21---01/25. Due to a department meeting my office hours have changed for Wednesday and Thursday.**
+
 ```{r, echo = FALSE}
 library(kableExtra)
 df <- data.frame(Time = c("10:00-10:30", 
@@ -67,16 +69,16 @@ df <- data.frame(Time = c("10:00-10:30",
                                "office hour",
                                "STT 3850",
                                "STT 3850",
-                               "office hour",
-                               "office hour",
+                               "meeting",
+                               "meeting",
                                "---",
                                "---",
                                "---",
                                "---"), 
                  Thursday = c("meeting", 
                               "meeting", 
-                              "---", 
-                              "---", 
+                              "rescheduled office hour", 
+                              "rescheduled office hour", 
                               "---", 
                               "---",
                               "office hour",
