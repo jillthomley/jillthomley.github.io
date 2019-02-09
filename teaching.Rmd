@@ -5,7 +5,7 @@ output: html_document
 
 <hr>
 
-## Spring 2018
+## Spring 2019
 
 * [STT3530 Data Science 1](https://stat-jet-asu.github.io/DataScience1/) 
 * [STT3850 Statistical Data Analysis 1](https://stat-jet-asu.github.io/StatisticalDataAnalysis1/)
