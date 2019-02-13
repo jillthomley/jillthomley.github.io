@@ -7,9 +7,9 @@ output: html_document
 
 ## Recent Publications
 
-Henson, K.S., Thomley, J.E., Lowrie, L., and Walker, D. “Comparison of Selected Outcomes Associated with Two Post-Operative Analgesia Approaches in the Total Knee Arthroplasty Patient,” _American Association of Nurse Anesthetists Journal_, accepted for publication, anticipated in print February 2019.
+Henson, K.S., Thomley, J.E., Lowrie, L., and Walker, D. (2019). “Comparison of Selected Outcomes Associated with Two Post-Operative Analgesia Approaches in the Total Knee Arthroplasty Patient,” _AANA Journal_, 87(1), 51-57. ([web access](https://www.aana.com/publications/aana-journal/all-issues/journal-issue-detail/february-2019))
 
-Thomley, J.E. “The History of Statistics: A Discussion-Intensive Seminar on 20th Century Development and Beyond,” In Amy Shell-Gellasch and Dick Jardine (eds.), _The Courses of History: Ideas for Developing a History of Mathematics Course (MAA Notes Series)_, accepted for publication, anticipated in print 2019
+Thomley, J.E. (2018). “The History of Statistics: A Discussion-Intensive Seminar on 20th Century Development and Beyond,” In Amy Shell-Gellasch and Dick Jardine (eds.), _The Courses of History: Ideas for Developing a History of Mathematics Course_. Washington, DC: MAA Press. ([web access](https://www.maa.org/press/ebooks/the-courses-of-history))
 
 Thomley, J.E. (2018). “[Example of a Well-Designed Course in Statistics](http://www.designlearning.org/examples-of-design/examples/),” _Designing Significant Learning Experiences: Course Examples_. 
 

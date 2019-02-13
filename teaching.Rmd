@@ -12,18 +12,14 @@ output: html_document
 
 ## Fall 2018
 
-* STT3500 Intermediate Data Visualization in R
+* [STT3500 Intermediate Data Visualization in R](https://github.com/STAT-JET-ASU/IntermediateDataVisR/blob/master/README.md)
 * STT3530 Data Science 1 
 * STT3850 Statistical Data Analysis 1 (&times; 2)
 
-## Summer 2018
-
-* STT3850 Statistical Data Analysis 1
-
 ## Spring 2018
 
-* STT1810 Basic Statistics
-* STT3500 Intermediate Statistical Graphing
+* [STT1810 Basic Statistics](https://github.com/STAT-JET-ASU/BasicStatistics)
+* [STT3500 Intermediate Statistical Graphing](https://github.com/STAT-JET-ASU/IntermediateDataVisR/blob/master/README.md)
 * STT3530 Data Science 1
 * STT3850 Statistical Data Analysis 1
 
