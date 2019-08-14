@@ -7,7 +7,7 @@ output: html_document
 
 ## Fall 2019
 
-* STT2860 Introduction to Data Management and Visualization 
+* [STT2860 Introduction to Data Management and Visualization](https://stat-jet-asu.github.io/IntroDataManagementVis/) 
 * STT3850 Statistical Data Analysis 1 (&times; 2)
 
 ## Spring 2019
