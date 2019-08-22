@@ -5,7 +5,7 @@ output: html_document
 
 <hr>
 
-My office is 228 Walker Hall. I am usually on campus Tuesday, Wednesday, and Thursday. Students enrolled in my classes should use their private forums on AsULearn to contact me electronically when needed. I will not answer direct email from current students. Wednesday 3pm office may be moved due to department meetings. Changes will be announced to students via Course Announcements on AsULearn.
+My office is 228 Walker Hall. I am usually on campus Tuesday, Wednesday, and Thursday. Students enrolled in my classes should use their private forums on AsULearn to contact me electronically when needed. I will not answer direct email from current students. Changes will be announced to students via Course Announcements on AsULearn.
 
 ```{r, echo = FALSE, message = FALSE}
 library(dplyr)
