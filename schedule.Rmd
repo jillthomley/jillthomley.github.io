@@ -5,7 +5,7 @@ output: html_document
 
 <hr>
 
-My office is 228 Walker Hall. I am usually on campus Tuesday, Wednesday, and Thursday. Students enrolled in my classes should use their private forums on AsULearn to contact me electronically when needed. I will not answer direct email from current students. Changes will be announced to students via Course Announcements on AsULearn.
+My office is 228 Walker Hall. I am usually on campus Tuesday, Wednesday, and Thursday. Students enrolled in my classes should use their private forums on AsULearn to contact me electronically when needed. I will not answer direct email from current students. Changes to this schedule will be announced to students via Course Announcements on AsULearn.
 
 ```{r, echo = FALSE, message = FALSE}
 library(dplyr)
@@ -142,10 +142,10 @@ df <- data.frame(Time = c("09:00-09:15",
                                "STT 3850-104",
                                "STT 3850-104",
                                "OFFICE HOUR", 
-                               "---",
-                               "---", 
-                               "---",
-                               "---", 
+                               "Dept. Meeting",
+                               "Dept. Meeting", 
+                               "Dept. Meeting",
+                               "Dept. Meeting", 
                                "---",
                                "---", 
                                "---",
@@ -261,7 +261,7 @@ df <- df %>% mutate(
                                               "STT 3850-104",
                                               "STT 2860-101",
                                               "OFFICE HOUR",
-                                              "Meeting"), 
+                                              "Dept. Meeting"), 
                                             c("", 
                                               "#ffcdde",
                                               "#ffdb9a",
@@ -269,7 +269,7 @@ df <- df %>% mutate(
                                               "#ffb734", 
                                               "#ffb734",
                                               "#00ffa5",
-                                              ""))),
+                                              "#4de5ff"))),
   Thursday = cell_spec(Thursday, "html",
                        background = factor(Thursday, 
                                            c("---", 
