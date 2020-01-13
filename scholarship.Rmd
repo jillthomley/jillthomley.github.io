@@ -5,7 +5,19 @@ output: html_document
 
 <hr>
 
-## Recent Publications
+## The Academy at Middle Fork Research Cluster
+
+I am a member of the Academy Research Cluster (ARC), a competitively-selected interdisciplinary group of faculty that was created with a Special Innovation Grant from the Office of the Chancellor to examine the activities and collaborations of the [Academy at Middle Fork](https://middlefork.appstate.edu/) and its interactions with Appalachian, its community, and its parents. Dr. Mary Searcy and myself are using Diffusion of Innovation Theory to investigate:
+
+1. What are the aspects of the Academy of Middle Fork-Appalachian State University lab-school  partnership innovation, communication, matters of time, and involved social systems that have been essential to its diffusion process?   
+2. What aspects, in hindsight, could have benefited from more intentional planning through the use of Innovation Diffusion Theory?
+3. What would an Innovation Diffusion Theory-informed plan for new lab-school partnerships look like as a result of lessons learned at the Academy of Middle Fork?
+
+## Innovation Publications
+
+TBA
+
+## Other Recent Publications
 
 Henson, K.S., Thomley, J.E., Lowrie, L., and Walker, D. (2019). “Comparison of Selected Outcomes Associated with Two Post-Operative Analgesia Approaches in the Total Knee Arthroplasty Patient,” _AANA Journal_, 87(1), 51-57. ([web access](https://www.aana.com/publications/aana-journal/all-issues/journal-issue-detail/february-2019))
 
