@@ -1,5 +1,5 @@
 ---
-title: "Dr. Thomley's Fall 2019 Schedule"
+title: "Dr. Thomley's Spring 2020 Schedule"
 output: html_document
 ---
 
