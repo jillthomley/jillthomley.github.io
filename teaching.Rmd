@@ -8,6 +8,7 @@ output: html_document
 ## Spring 2020
 
 * [STT3500 Intermediate Data Visualization in R](https://github.com/STAT-JET-ASU/IntermediateDataVisR/blob/master/README.md)
+* STT3500 Statistical Investigation of US Wage Gaps
 * [STT3850 Statistical Data Analysis 1](https://stat-jet-asu.github.io/StatisticalDataAnalysis1/)
 * STT3520 Instructional Assistant
 * MAT4510 Senior Honors Thesis
