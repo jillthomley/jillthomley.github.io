@@ -5,6 +5,10 @@ output: html_document
 
 <hr>
 
+## Fall 2020
+
+* I was on medical leave during Fall 2020.
+
 ## Spring 2020
 
 * [STT3500 Intermediate Data Visualization in R](https://github.com/STAT-JET-ASU/IntermediateDataVisR/blob/master/README.md) (&times; 2)
