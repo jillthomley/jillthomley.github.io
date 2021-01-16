@@ -5,6 +5,10 @@ output: html_document
 
 <hr>
 
+## Spring 2021
+
+* [STT3850 Statistical Data Analysis 1](https://stat-jet-asu.github.io/StatisticalDataAnalysis1/) (&times; 2)
+
 ## Fall 2020
 
 * I was on medical leave during Fall 2020.
