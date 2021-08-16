@@ -8,8 +8,9 @@ output: html_document
 ## Academic Year 2021--2022
 
 * [ASU Human Subjects: Institutional Review Board (IRB)](https://researchprotections.appstate.edu/human-subjects)
-* [Pi Mu Epsilon Mathematics Honor Society](http://www.cs.appstate.edu/~sjg/PiMuEpsilon/)
-* Other service TBA
+* Mathematical Sciences Assessment Objectives Committee
+* STT1810 Course Redevelopment Committee (co-chair)
+* [Pi Mu Epsilon Mathematics Honor Society](http://www.cs.appstate.edu/~sjg/PiMuEpsilon/) (co-advisor)
 
 ## Academic Year 2020--2021
 
