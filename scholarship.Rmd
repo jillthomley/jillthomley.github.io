@@ -5,13 +5,19 @@ output: html_document
 
 <hr>
 
-## The Academy at Middle Fork Research Cluster
+## NC State Board of Elections (NCSBE) Post-Election Auditing
 
-I am a member of the Academy Research Cluster (ARC), a competitively-selected interdisciplinary group of faculty that was created with a Special Innovation Grant from the Office of the Chancellor to examine the activities and collaborations of the [Academy at Middle Fork](https://middlefork.appstate.edu/) and its interactions with Appalachian, its community, and its parents. Dr. Mary Searcy and myself are using Diffusion of Innovation Theory to investigate:
+I am consulting with the NCSBE on [post-election audits](https://www.ncsbe.gov/about-elections/election-security/post-election-procedures-and-audits), including the current statute-driven audit procerss and a proposal to pilot a [risk-limiting audit](https://www.stat.berkeley.edu/~stark/Preprints/gentle12.pdf). These statistically-driven audits are [becoming more common](https://www.ncsl.org/research/elections-and-campaigns/risk-limiting-audits.aspx) as states seek to address concerns about election security.
+
+## The Academy at Middle Fork Research Cluster and Beyond
+
+I was be part of the Academy Research Cluster (ARC), a competitively-selected interdisciplinary group of faculty that was created with a Special Innovation Grant from the Office of the Chancellor to examine the activities and collaborations of the [Academy at Middle Fork](https://middlefork.appstate.edu/) and its interactions with Appalachian, its community, and its parents. Dr. Mary Searcy and myself have been using Diffusion of Innovation Theory to investigate:
 
 1. What are the aspects of the Academy of Middle Fork-Appalachian State University lab-school  partnership innovation, communication, matters of time, and involved social systems that have been essential to its diffusion process?   
 2. What aspects, in hindsight, could have benefited from more intentional planning through the use of Innovation Diffusion Theory?
 3. What would an Innovation Diffusion Theory-informed plan for new lab-school partnerships look like as a result of lessons learned at the Academy of Middle Fork?
+
+Following our report to the Academy's advisory board in June 2021 and the cessation of the research cluster as a formal unit, we are continuing our study of the Academy in partnership with Dr. Hannah Reeder, Director of the Academy at Middle Fork.
 
 ## Selected Recent Publications (see my [full CV](https://jillthomley.github.io/Thomley-Jill-CV.pdf))
 
