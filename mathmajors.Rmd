@@ -1,0 +1,152 @@
+---
+title: "Mathematical Sciences Major and Degree Data"
+date: 'Last rendered on `r format(Sys.time(), "%A, %B %d, %Y @ %I:%M %p")`'
+output: html_document
+---
+
+```{r globaloptions, include = FALSE}
+# this sets the options but is not shown in the render
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  comment = NA,
+  echo = FALSE
+)
+
+library(tidyverse)
+```
+***
+
+```{r}
+data_current <- tibble(area = c("Actuarial Science",
+                                "Secondary Education",
+                                "General Mathematics",
+                                "Business",
+                                "Statistics",
+                                "Computation",
+                                "All Other"),
+                       majors = c(61, 59, 33, 26, 24, 11, 7))
+
+ggplot(data_current, aes(x = majors, y = reorder(area, majors))) +
+  geom_col(width = 0.75, color = "black", fill = "goldenrod") +
+  scale_x_continuous(breaks = seq(0, 65, 5), limits = c(0, 65)) +
+  labs(title = "Current Mathematical Sciences Majors (2021)",
+       x = "Number of Students (221 Total)",
+       y = "") +
+  geom_text(aes(label = majors), hjust = -0.5) +
+  theme_linedraw() +
+  theme(panel.grid.major.y = element_blank(),
+        panel.grid.minor.y = element_blank()) 
+```
+
+```{r}
+data <- tibble(year = 2015:2021,
+               majors = c(221, 238, 240, 229, 239, 250, 225),
+               ugrads = c(16255, 16595, 17017, 17381, 17494, 18061, 18555),
+               etotal = c(17932, 18295, 18811, 19108, 19280, 20023, 20641)) %>% 
+  mutate(ugradst = ugrads / 1000,
+         majorst = round(majors / ugradst, 1))
+
+ggplot(data, aes(x = year, y = majorst)) +
+  geom_col(width = 0.75, color = "black", fill = "gold") +
+  scale_x_continuous(breaks = data$year) +
+  scale_y_continuous(breaks = 1:20, limits = c(0, 16), expand = c(0, 0)) +
+  labs(title = "Declared Majors in the Department of Mathematical Sciences",
+       x = "Academic Year (Fall)",
+       y = "Majors per 1000 Enrolled Undergraduates") +
+  geom_text(aes(label = majorst), vjust = -0.5) +
+  theme_linedraw() +
+  theme(panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_blank()) 
+```
+
+```{r}
+data_deg <- tibble(year = 2010:2020,
+                   ugrad = c(51, 49, 40, 52, 62, 52, 57, 47, 63, 61, 46),
+                   ggrad = c(5, 16, 10, 13, 11, 11, 8, 11, 11, 12, 3),
+                   granted = c(3183, 3589, 3575, 3537, 3881, 3865, 4074, 4048, 4222, 4319, 4355)) %>% 
+  mutate(grantedst = granted / 1000,
+         ugradst = round(ugrad / grantedst, 1))
+```
+
+```{r}
+ggplot(data_deg, aes(x = year, y = ugrad)) +
+  geom_col(width = 0.75, color = "black", fill = "gold2") +
+  scale_x_continuous(breaks = data_deg$year, 
+                     labels = c("2010-\n2011",
+                                "2011-\n2012",
+                                "2012-\n2013",
+                                "2013-\n2014",
+                                "2014-\n2015",
+                                "2015-\n2016",
+                                "2016-\n2017",
+                                "2017-\n2018",
+                                "2018-\n2019",
+                                "2019-\n2020",
+                                "2020-\n2021")) +
+  scale_y_continuous(breaks = seq(0, 70, 10), limits = c(0, 70), expand = c(0, 0)) +
+  labs(title = "Count of Undergraduate Mathematical Sciences Degrees Awarded",
+       x = "Academic Year",
+       y = "Number of Degrees Awarded") +
+  geom_text(aes(label = ugrad), vjust = -0.5) +
+  theme_linedraw() +
+  theme(panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_blank()) 
+```
+
+```{r}
+ggplot(data_deg, aes(x = year, y = ugradst)) +
+  geom_col(width = 0.75, color = "black", fill = "gold2") +
+  scale_x_continuous(breaks = data_deg$year, 
+                     labels = c("2010-\n2011",
+                                "2011-\n2012",
+                                "2012-\n2013",
+                                "2013-\n2014",
+                                "2014-\n2015",
+                                "2015-\n2016",
+                                "2016-\n2017",
+                                "2017-\n2018",
+                                "2018-\n2019",
+                                "2019-\n2020",
+                                "2020-\n2021")) +
+  scale_y_continuous(breaks = seq(0, 70, 5), limits = c(0, 20), expand = c(0, 0)) +
+  labs(title = "Rate of Undergraduate Mathematical Sciences Degrees Awarded",
+       subtitle = "degree counts scaled by total number of undergraduate degrees granted that year",
+       caption = "total degree data from: https://analytics.appstate.edu/dash_degrees_public",
+       x = "Academic Year",
+       y = "Number of Degrees Awarded per 1000 Granted Degrees") +
+  geom_text(aes(label = ugradst), vjust = -0.5) +
+  theme_linedraw() +
+  theme(panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_blank())
+```
+
+```{r}
+ggplot(data_deg, aes(x = year, y = ggrad)) +
+  geom_col(width = 0.75, color = "black", fill = "gold3") +
+  scale_x_continuous(breaks = data_deg$year, 
+                     labels = c("2010-\n2011",
+                                "2011-\n2012",
+                                "2012-\n2013",
+                                "2013-\n2014",
+                                "2014-\n2015",
+                                "2015-\n2016",
+                                "2016-\n2017",
+                                "2017-\n2018",
+                                "2018-\n2019",
+                                "2019-\n2020",
+                                "2020-\n2021")) +
+  scale_y_continuous(breaks = seq(0, 18, 2), limits = c(0, 18), expand = c(0, 0)) +
+  labs(title = "Count of Graduate Mathematical Sciences Degrees Awarded",
+       x = "Academic Year",
+       y = "Number of Degrees Awarded") +
+  geom_text(aes(label = ggrad), vjust = -0.5) +
+  theme_linedraw() +
+  theme(panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_blank()) 
+```
+
+```{r}
+sessionInfo()
+```
+
