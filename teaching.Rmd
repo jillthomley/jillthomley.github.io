@@ -5,7 +5,7 @@ output: html_document
 
 <hr>
 
-## Spring 2022 2021
+## Spring 2022
 
 * [STT2860 Introduction to Data Management and Visualization](TBA)
 * STT3500 TBA
