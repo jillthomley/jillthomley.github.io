@@ -7,9 +7,9 @@ output: html_document
 
 ## Spring 2022
 
-* [STT2860 Introduction to Data Management and Visualization](TBA)
+* [STT2860 Introduction to Data Management and Visualization](https://stat-jet-asu.github.io/STT2860DataScience1/)
 * STT3500 TBA
-* [STT3850 Statistical Data Analysis 1](TBA)
+* [STT3850 Statistical Data Analysis 1](https://stat-jet-asu.github.io/STT3850DataAnalysis1/)
 
 ## Fall 2021
 
