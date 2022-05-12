@@ -1,0 +1,10 @@
+---
+title: "Other Links"
+output: html_document
+---
+
+* [ASU Recreation Center](http://urec.appstate.edu/student-recreation-center)
+* [Ray's Weather Center](http://booneweather.com/)
+
+
+* * *

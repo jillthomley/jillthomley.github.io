@@ -16,7 +16,7 @@ output: html_document
 * [Mathematical Sciences](https://mathsci.appstate.edu/)
 * [Office of the Registrar](https://registrar.appstate.edu/)
 * [Office of Student Conduct](https://studentconduct.appstate.edu/)
-* [Student Rec Center](http://urec.appstate.edu/student-recreation-center)
+* [Student Recreation Center](http://urec.appstate.edu/student-recreation-center)
 
 ## Professional Organizations
 
@@ -39,13 +39,14 @@ output: html_document
 
 ## Local Information
 
+* [Broyhill Wellness Center](https://wellness.apprhs.org/)
 * [GoBlueRidge](https://www.goblueridge.net/news)
 * [Blowing Rocket](https://www.wataugademocrat.com/blowingrocket/)
 * [Mountain Times](https://www.wataugademocrat.com/mountaintimes/)
 * [Watauga Democrat](https://www.wataugademocrat.com/)
 * [High Country Press](https://www.hcpress.com/)
 * [Boone Area Chamber of Commerce](https://www.boonechamber.com/)
-* [Watauga County Swim Complex](http://www.wataugacounty.org/App_Pages/Dept/ParksRec/Aquatics/aquaticsHome.aspx)
+* [Watauga County Recreation Center](http://www.wataugacounty.org/App_Pages/Dept/ParksRec/home.aspx)
 
 ## Weather Services
 
