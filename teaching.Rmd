@@ -5,20 +5,24 @@ output: html_document
 
 <hr>
 
+## Fall 2022
+
+* STT 1810 Basic Statistics (&times; 2)
+* [STT 2860 Introduction to Data Management and Visualization](https://stat-jet-asu.github.io/STT2860DataScience1/)
+
 ## Spring 2022
 
-* [STT2860 Introduction to Data Management and Visualization](https://stat-jet-asu.github.io/STT2860DataScience1/)
-* STT3500 TBA
-* [STT3850 Statistical Data Analysis 1](https://stat-jet-asu.github.io/STT3850DataAnalysis1/)
+* STT 2860 Introduction to Data Management and Visualization
+* STT 3850 Statistical Data Analysis 1
 
 ## Fall 2021
 
-* [STT2860 Introduction to Data Management and Visualization](https://stat-jet-asu.github.io/IntroDataManagementVis/)
-* [STT3850 Statistical Data Analysis 1](https://stat-jet-asu.github.io/StatisticalDataAnalysis1/) (&times; 2)
+* STT 2860 Introduction to Data Management and Visualization
+* STT 3850 Statistical Data Analysis 1 (&times; 2)
 
 ## Spring 2021
 
-* [STT3850 Statistical Data Analysis 1](https://stat-jet-asu.github.io/StatisticalDataAnalysis1/) (&times; 2)
+* STT3850 Statistical Data Analysis 1 (&times; 2)
 
 ## Fall 2020
 
@@ -27,34 +31,34 @@ output: html_document
 ## Spring 2020
 
 * [STT3500 Intermediate Data Visualization in R](https://github.com/STAT-JET-ASU/IntermediateDataVisR/blob/master/README.md) (&times; 2)
-* STT3500 Statistical Investigation of US Wage Gaps
-* STT3850 Statistical Data Analysis 1
-* STT3520 Instructional Assistant
-* MAT4510 Senior Honors Thesis
+* STT 3500 Statistical Investigation of US Wage Gaps
+* STT 3850 Statistical Data Analysis 1
+* STT 3520 Instructional Assistant
+* MAT 4510 Senior Honors Thesis
 
 ## Fall 2019
 
-* STT2860 Introduction to Data Management and Visualization
-* STT3850 Statistical Data Analysis 1 (&times; 2)
-* MAT4510 Senior Honors Thesis
+* STT 2860 Introduction to Data Management and Visualization
+* STT 3850 Statistical Data Analysis 1 (&times; 2)
+* MAT 4510 Senior Honors Thesis
 
 ## Spring 2019
 
-* STT3530 Data Science 1
-* STT3850 Statistical Data Analysis 1
+* STT 3530 Data Science 1
+* STT 3850 Statistical Data Analysis 1
 
 ## Fall 2018
 
-* [STT3500 Intermediate Data Visualization in R](https://github.com/STAT-JET-ASU/IntermediateDataVisR/blob/master/README.md)
-* STT3530 Data Science 1 
-* STT3850 Statistical Data Analysis 1 (&times; 2)
+* [STT 3500 Intermediate Data Visualization in R](https://github.com/STAT-JET-ASU/IntermediateDataVisR/blob/master/README.md)
+* STT 3530 Data Science 1 
+* STT 3850 Statistical Data Analysis 1 (&times; 2)
 
 ## Spring 2018
 
-* [STT1810 Basic Statistics](https://github.com/STAT-JET-ASU/BasicStatistics)
-* [STT3500 Intermediate Statistical Graphing](https://github.com/STAT-JET-ASU/IntermediateDataVisR/blob/master/README.md)
-* STT3530 Data Science 1
-* STT3850 Statistical Data Analysis 1
+* STT 1810 Basic Statistics
+* [STT 3500 Intermediate Statistical Graphing](https://github.com/STAT-JET-ASU/IntermediateDataVisR/blob/master/README.md)
+* STT 3530 Data Science 1
+* STT 3850 Statistical Data Analysis 1
 
 ## Resources
 

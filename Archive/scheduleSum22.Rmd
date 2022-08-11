@@ -1,0 +1,15 @@
+---
+title: "Dr. Thomley's Summer 2022 Schedule"
+output: html_document
+---
+
+<hr>
+
+I am not teaching during Summer 2022 and rarely will be physically in my office. I will be engaged in a variety of scholarly and teaching activities. You can reach me via email at thomleyje@appstate.edu.
+
+* Consulting with the North Carolina State Board of Elections (NCSBE) on election auditing procedures.
+* Partnering with Dr. Mary Beth Searcy, Dr. Hannah Reeder, Director of Director of Lab Schools for Appalachian State University, and others on a research project to study the planning, development, operation, and innovativeness of ASU's Academy at Middle Fork and its soon-to-be-opened second lab school in Elkin. Among other activities, we will be conducting a number of in-depth interviews with Academy staff and stakeholders in order to "tell the story" of the Academy. This is an outgrowth of our work with the Academy Research Cluster.
+* Developing a 100% synchronous online version of our STT1810 Basic Statistics course for Fall 2022.
+* Developing other scholarly research and writing projects, alone and with collaborators, as time permits.
+
+<hr>
