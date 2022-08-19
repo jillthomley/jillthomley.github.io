@@ -76,8 +76,8 @@ df <- data.frame(
     "Meeting",
     "Meeting",
     "Meeting",
-    " ",
-    " "
+    "Meeting",
+    "Meeting"
   ),
   Wednesday = c(
     " ",
@@ -91,12 +91,12 @@ df <- data.frame(
     "Lunch",
     " ",
     " ",
+    "Meeting",
+    "Meeting",
+    "Meeting",
     "Office Hour",
     "Office Hour",
     "Office Hour",
-    " ",
-    " ",
-    " ",
     " ",
     " ",
     " "
