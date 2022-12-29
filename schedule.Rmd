@@ -1,5 +1,5 @@
 ---
-title: "Dr. Thomley's Fall 2022 Schedule"
+title: "Dr. Thomley's Spring 2023 Schedule"
 output: html_document
 ---
 
@@ -41,14 +41,14 @@ df <- data.frame(
     " ",
     " ",
     " ",
+    " ",
+    "Meeting",
+    "Meeting",
+    " ",
+    " ",
     "Office Hour",
     "Office Hour",
     "Office Hour",
-    "Lunch",
-    " ",
-    " ",
-    " ",
-    " ",
     " ",
     " ",
     " ",
@@ -88,7 +88,6 @@ df <- data.frame(
     " ",
     " ",
     " ",
-    "Lunch",
     " ",
     " ",
     "Meeting",
@@ -97,6 +96,7 @@ df <- data.frame(
     "Office Hour",
     "Office Hour",
     "Office Hour",
+    " ",
     " ",
     " ",
     " "
