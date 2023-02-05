@@ -18,7 +18,7 @@ title: "Welcome!"
 * history of statistics / data science
 * women and minorities in statistics
 * mathematics / statistics in popular culture
-* [Women in Mathematics Patch for Girl Scouts](https://cs.appstate.edu/~sjg/awm/earnedbadge.html)
+* [Women in Mathematics Patch for Girl Scouts](https://cs.appstate.edu/sjg/awm/earnedbadge.html)
 
 <div data-cdc-widget="COVIDCountyCheck" ></div> 
 <script src="https://tools.cdc.gov/1M1B"></script>
