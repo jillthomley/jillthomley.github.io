@@ -5,10 +5,16 @@ output: html_document
 
 <hr>
 
+## Fall 2023
+
+* STT 1810 Basic Statistics
+* STT 2860 Introduction to Data Management and Visualization
+* STT 4811 Statistical Concepts and Applications I
+
 ## Spring 2023
 
 * STT 1810 Basic Statistics (&times; 2)
-* STT 2860 Introduction to Data Management
+* STT 2860 Introduction to Data Management and Visualization
 * STT 3500 Ethics in Statistics Practice
 
 ## Fall 2022

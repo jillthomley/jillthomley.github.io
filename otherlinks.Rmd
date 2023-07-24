@@ -11,7 +11,7 @@ output: html_document
 * [AppalAIR](https://appalair.appstate.edu/)
 * [Banner](https://bannerweb.appstate.edu/pls/PROD/twbkwbis.P_WWWLogin)
 * [College of Arts & Sciences](https://cas.appstate.edu/)
-* [Degree Works](https://dw.appstate.edu/Dashboard/login.html)
+* [Degree Works](https://registrar.appstate.edu/degreeworks)
 * [Early Intervention Team](https://eit.appstate.edu/)
 * [Exam Schedule](https://registrar.appstate.edu/calendars-schedules/exam-schedule-0)
 * [Faculty Handbook](https://facultyhandbook.appstate.edu/)
@@ -42,12 +42,11 @@ output: html_document
 ## Local Information
 
 * [Quiet Givers](https://quietgivers.org/)
-* [GoBlueRidge](https://www.goblueridge.net/news)
+* [GoBlueRidge](https://goblueridge.net/)
 * [Blowing Rocket](https://www.wataugademocrat.com/blowingrocket/)
 * [Mountain Times](https://www.wataugademocrat.com/mountaintimes/)
 * [Watauga Democrat](https://www.wataugademocrat.com/)
 * [High Country Press](https://www.hcpress.com/)
-* [Broyhill Wellness Center](https://wellness.apprhs.org/)
 * [Watauga County Recreation Center](http://www.wataugacounty.org/App_Pages/Dept/ParksRec/home.aspx)
 
 ## Weather Services

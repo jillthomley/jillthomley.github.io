@@ -1,18 +1,18 @@
 ---
-title: "Dr. Thomley's Fall 2023 Schedule"
+title: "Dr. Thomley's Spring 2023 Schedule"
 output: html_document
 ---
 
 <hr>
 
-Students enrolled in my classes should use their private forums on AsULearn to contact me electronically, as directed in their syllabus. I will not answer direct email from students who are currently in my classes, unless it is an emergency. Changes to my schedule and availability for Help Hours will be announced to students via AsULearn.
+I am teaching mostly online this semester and often will not be physically in my office in Walker Hall. Students enrolled in my classes should use their private forums on AsULearn to contact me electronically, as directed in their syllabus. I will not answer direct email from students who are currently in my classes, unless it is an emergency. Changes to this schedule and in-person availability will be announced to students via Course Announcements on AsULearn.
 
-The number of office hours offered in a given semester is a function of the credit hours of standard classes a professor is teaching. You can book Help Hours appointments in 15-minute increments [HERE](https://calendar.google.com/calendar/selfsched?sstoken=UU0zQUk4blgtNW44fGRlZmF1bHR8Y2EyZDZmYTMxNmZjMWEwMjdiMzE0ZjQ1MmEwNDFjMmE). If you feel like you will need more than 15 minutes, book more than one slot. Drop-ins are also welcome, but scheduled appointments will take priority. You may meet with me in person or via Zoom. Hours marked with an asterisk (*) are Zoom-only. Zoom links are available on AsULearn.
+The number of office hours offered in a given semester is a function of the credit hours of standard classes a professor is teaching. You can book Office Hour appointments in 15-minute increments [HERE](https://calendar.google.com/calendar/selfsched?sstoken=UU0zQUk4blgtNW44fGRlZmF1bHR8Y2EyZDZmYTMxNmZjMWEwMjdiMzE0ZjQ1MmEwNDFjMmE). If you feel like you will need more than 15 minutes, book more than one slot. Drop-ins are also welcome, but scheduled appointments will take priority. Zoom links are available on AsULearn.
 
 ```{r, echo = FALSE, message = FALSE}
-library(tidyverse)
+library(dplyr)
 library(kableExtra)
-data <- tibble(
+df <- data.frame(
   Time = c(
     "10:00-10:30",
     "10:30-11:00",
@@ -42,20 +42,20 @@ data <- tibble(
     " ",
     " ",
     " ",
+    "Meeting",
+    "Meeting",
+    " ",
+    " ",
+    "Office Hour",
+    "Office Hour",
+    "Office Hour",
     " ",
     " ",
     " ",
     " ",
     " ",
     " ",
-    " ",
-    " ",
-    " ",
-    "Rehearsal",
-    "Rehearsal",
-    "Rehearsal",
-    "Rehearsal",
-    "Rehearsal"
+    " "
   ),
   Tuesday = c(
     "Class Prep",
@@ -63,12 +63,12 @@ data <- tibble(
     "STT 1810",
     "STT 1810",
     "STT 1810",
-    "Help Hours",
-    "Help Hours",
+    "STT 1810",
+    "STT 1810",
+    "STT 1810",
     "Lunch",
-    "STT 4811",
-    "STT 4811",
-    "STT 4811",
+    "Class Prep",
+    "Class Prep",
     "STT 2860",
     "STT 2860",
     "STT 2860",
@@ -82,20 +82,20 @@ data <- tibble(
   Wednesday = c(
     " ",
     " ",
+    "Office Hour",
+    "Office Hour",
+    "Office Hour",
     " ",
     " ",
     " ",
     " ",
     " ",
-    "Lunch",
-    "Help Hours",
-    "Help Hours",
     "Meeting",
     "Meeting",
     "Meeting",
-    "Meeting",
-    " ",
-    " ",
+    "Office Hour",
+    "Office Hour",
+    "Office Hour",
     " ",
     " ",
     " ",
@@ -107,12 +107,12 @@ data <- tibble(
     "STT 1810",
     "STT 1810",
     "STT 1810",
-    "Help Hours",
-    "Help Hours",
+    "STT 1810",
+    "STT 1810",
+    "STT 1810",
     "Lunch",
-    "STT 4811",
-    "STT 4811",
-    "STT 4811",
+    "Class Prep",
+    "Class Prep",
     "STT 2860",
     "STT 2860",
     "STT 2860",
@@ -128,10 +128,10 @@ data <- tibble(
     "Scholarship",
     "Scholarship",
     "Scholarship",
-    "Help Hours*",
-    "Help Hours*",
-    "Help Hours*",
-    "Lunch",
+    "Scholarship",
+    "Scholarship",
+    "Scholarship",
+    "Scholarship",
     "Scholarship",
     "Scholarship",
     "Scholarship",
@@ -147,7 +147,7 @@ data <- tibble(
   )
 )
 
-kable(data, format = "html", escape = FALSE, align = c("c", "c", "c", "c", "c", "c")) %>%
+kable(df, format = "html", escape = FALSE, align = c("c", "c", "c", "c", "c", "c")) %>%
   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 ```
 
