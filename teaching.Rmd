@@ -5,6 +5,12 @@ output: html_document
 
 <hr>
 
+## Spring 2024
+
+* STT 1810 Basic Statistics
+* STT 2860 Introduction to Data Management and Visualization
+* STT 4812 Statistical Concepts and Applications II
+
 ## Fall 2023
 
 * STT 1810 Basic Statistics

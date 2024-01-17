@@ -9,7 +9,7 @@ output: html_document
 
 * [ASU Human Subjects: Institutional Review Board (IRB)](https://researchprotections.appstate.edu/human-subjects)
 * [Pi Mu Epsilon Mathematics Honor Society](http://www.cs.appstate.edu/sjg/PiMuEpsilon/) (co-advisor)
-* TBA
+* Mathematical Science Workload Policy Committee
 
 ## Academic Year 2022--2023
 
