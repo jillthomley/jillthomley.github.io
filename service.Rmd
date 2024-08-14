@@ -5,25 +5,35 @@ output: html_document
 
 <hr>
 
+## Academic Year 2024--2025
+
+* [ASU Human Subjects: Institutional Review Board (IRB)](https://researchprotections.appstate.edu/human-subjects), Deputy Chair
+* [Pi Mu Epsilon Mathematics Honor Society](http://www.cs.appstate.edu/sjg/PiMuEpsilon/), Co-Advisor
+* Appointment, Promotion, and Tenure Committee
+* STT 1810 Course Convener
+* TBA
+
 ## Academic Year 2023--2024
 
 * [ASU Human Subjects: Institutional Review Board (IRB)](https://researchprotections.appstate.edu/human-subjects)
-* [Pi Mu Epsilon Mathematics Honor Society](http://www.cs.appstate.edu/sjg/PiMuEpsilon/) (co-advisor)
+* [Pi Mu Epsilon Mathematics Honor Society](http://www.cs.appstate.edu/sjg/PiMuEpsilon/), Co-Advisor
 * Mathematical Science Workload Policy Committee
+* Appointment, Promotion, and Tenure Committee
+* STT 1810 Course Convener
 
 ## Academic Year 2022--2023
 
 * [ASU Human Subjects: Institutional Review Board (IRB)](https://researchprotections.appstate.edu/human-subjects)
 * Mathematical Sciences Assessment Objectives Committee
 * STT1810 Course Redevelopment Committee (co-chair)
-* [Pi Mu Epsilon Mathematics Honor Society](http://www.cs.appstate.edu/sjg/PiMuEpsilon/) (co-advisor)
+* [Pi Mu Epsilon Mathematics Honor Society](http://www.cs.appstate.edu/sjg/PiMuEpsilon/), Co-Advisor
 
 ## Academic Year 2021--2022
 
 * [ASU Human Subjects: Institutional Review Board (IRB)](https://researchprotections.appstate.edu/human-subjects)
 * Mathematical Sciences Assessment Objectives Committee
 * STT1810 Course Redevelopment Committee (co-chair)
-* [Pi Mu Epsilon Mathematics Honor Society](http://www.cs.appstate.edu/sjg/PiMuEpsilon/) (co-advisor)
+* [Pi Mu Epsilon Mathematics Honor Society](http://www.cs.appstate.edu/sjg/PiMuEpsilon/), Co-Advisor
 
 ## Academic Year 2020--2021
 
@@ -36,13 +46,13 @@ output: html_document
 
 * [ASU Human Subjects: Institutional Review Board (IRB)](https://researchprotections.appstate.edu/human-subjects)
 * College of Arts and Sciences Sustainability Focus Group
-* [Pi Mu Epsilon Mathematics Honor Society](http://www.cs.appstate.edu/sjg/PiMuEpsilon/)
+* [Pi Mu Epsilon Mathematics Honor Society](http://www.cs.appstate.edu/sjg/PiMuEpsilon/), Co-Advisor
 * Mathematical Sciences Analytics Committee
 
 ## Academic Year 2018--2019
 
 * [ASU Human Subjects: Institutional Review Board (IRB)](https://researchprotections.appstate.edu/human-subjects)
-* [Pi Mu Epsilon Mathematics Honor Society](http://www.cs.appstate.edu/sjg/PiMuEpsilon/)
+* [Pi Mu Epsilon Mathematics Honor Society](http://www.cs.appstate.edu/sjg/PiMuEpsilon/), Co-Advisor
 * Mathematical Sciences Analytics Committee
 * Mathematical Sciences Assessment
 

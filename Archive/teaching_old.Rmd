@@ -49,7 +49,7 @@ output: html_document
 
 ## Fall 2020
 
-* I was on medical leave during Fall 2020
+* I was on medical leave during Fall 2020.
 
 ## Spring 2020
 
@@ -58,6 +58,30 @@ output: html_document
 * STT 3850 Statistical Data Analysis 1
 * STT 3520 Instructional Assistant
 * MAT 4510 Senior Honors Thesis
+
+## Fall 2019
+
+* STT 2860 Introduction to Data Management and Visualization
+* STT 3850 Statistical Data Analysis 1 (&times; 2)
+* MAT 4510 Senior Honors Thesis
+
+## Spring 2019
+
+* STT 3530 Data Science 1
+* STT 3850 Statistical Data Analysis 1
+
+## Fall 2018
+
+* [STT 3500 Intermediate Data Visualization in R](https://github.com/STAT-JET-ASU/IntermediateDataVisR/blob/master/README.md)
+* STT 3530 Data Science 1 
+* STT 3850 Statistical Data Analysis 1 (&times; 2)
+
+## Spring 2018
+
+* STT 1810 Basic Statistics
+* [STT 3500 Intermediate Statistical Graphing](https://github.com/STAT-JET-ASU/IntermediateDataVisR/blob/master/README.md)
+* STT 3530 Data Science 1
+* STT 3850 Statistical Data Analysis 1
 
 ## Resources
 

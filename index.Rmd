@@ -10,7 +10,7 @@ title: "Welcome!"
 
 **Scholarly and Pedagogical Interests**
 
-* election auditing
+* statistics identity
 * statistics education
 * data science education
 * standards-based grading

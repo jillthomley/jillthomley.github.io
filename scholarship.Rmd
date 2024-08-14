@@ -5,35 +5,25 @@ output: html_document
 
 <hr>
 
-## NC State Board of Elections (NCSBE) Post-Election Auditing
+## Selected Recent Publications (see my [full CV](https://jillthomley.github.io/Thomley-Jill-CV-web.pdf))
 
-I am consulting with the NCSBE on [post-election audits](https://www.ncsbe.gov/about-elections/election-security/post-election-procedures-and-audits), including the current statute-driven audit procerss and a proposal to pilot a [risk-limiting audit](https://www.stat.berkeley.edu/~stark/Preprints/gentle12.pdf). These statistically-driven audits are [becoming more common](https://www.ncsl.org/research/elections-and-campaigns/risk-limiting-audits.aspx) as states seek to address concerns about election security.
+Greenwald, Sarah J. and Thomley, Jill E. (2024). “How The Sex Lives of College Girls May Shape Perceptions on the Culture of Mathematics.” In H. Verrill, K. Kattchee, S.L. Gould, and E. Torrence (Eds.), Proceedings of Bridges 2024: Mathematics, Art, Music, Architecture, Culture, pp. 77–84. Tesselations Publishing. ([web access](http://archive.bridgesmathart.org/2024/bridges2024-77.html))
 
-## The Academy at Middle Fork Research Cluster and Beyond
+Kelly, Melissa, Braswell, April A., Thomley, Jill E. (2024). “Optimizing Sexual and Gender Minority Adolescent Health: Evidence into Practice.” _Journal of Pediatric Health Care_, 38(4), pp. 495–603. ([web access](https://doi.org/10.1016/j.pedhc.2024.02.004)) 
 
-In 2020 and 2021, I was a member of the Academy Research Cluster (ARC), a competitively-selected interdisciplinary group of ASU faculty funded by a Special Innovation Grant from the Office of the Chancellor. We were charged with studying the activities and collaborations of ASU's K-5 lab school, [The Academy at Middle Fork](https://middlefork.appstate.edu/). Dr. Mary Beth Searcy and I have been using Diffusion of Innovation Theory to investigate:
+Greenwald, Sarah J. and Thomley, Jill E. (2020). “Using Technology as a Pathway Towards Equity, Diversity, and Inclusion.” In _Proceedings of the 32nd International Conference on Technology in Collegiate Mathematics._
+([web access](https://www.pearson.com/us/about/news-events/events/ictcm-archive-2020.html)) 
 
-1. What are the aspects of the Academy of Middle Fork-Appalachian State University lab-school  partnership innovation, communication, matters of time, and involved social systems that have been essential to its diffusion process?   
-2. What aspects, in hindsight, could have benefited from more intentional planning through the use of Innovation Diffusion Theory?
-3. What would an Innovation Diffusion Theory-informed plan for new lab-school partnerships look like as a result of lessons learned at the Academy of Middle Fork?
-
-We submitted a report to the Academy's advisory board in June 2021, but our involvement did not end there. Dr. Searcy and I are continuing our study of the Academy and ASU's soon-to-be-opened second lab school in Elkin, NC, in partnership with Dr. Hannah Reeder, ASU's Director of Lab Schools, and other stakeholders. Our goal is to tell the Academy's story using a theoretical foundation and authentic voices, to add to the body of education innovation literature.
-
-## Selected Recent Publications (see my [full CV](https://jillthomley.github.io/Thomley-Jill-CV.pdf))
 
 Selbach-Allen, Megan E., Greenwald, Sarah J. Ksir, Amy E., and Thomley, Jill E. (2020). “Raising the Bar with Standards-Based Grading,” _PRIMUS_, 30(8-10), 1110-1126. (special issue)
 
-Henson, Kevin S., Thomley, Jill E., Lowrie, Lynn J., and Walker, Deborah. (2019). “Comparison of Selected Outcomes Associated with Two Post-Operative Analgesia Approaches in the Total Knee Arthroplasty Patient,” _AANA Journal_, 87(1), 51-57. ([web access](https://www.aana.com/publications/aana-journal/all-issues/journal-issue-detail/february-2019))
+Henson, Kevin S., Thomley, Jill E., Lowrie, Lynn J., and Walker, Deborah. (2019). “Comparison of Selected Outcomes Associated with Two Post-Operative Analgesia Approaches in the Total Knee Arthroplasty Patient,” _AANA Journal_, 87(1), 51-57. ([web access](https://doi.org/10.1016/j.jclinane.2021.110257)) 
 
-Thomley, Jill E. (2018). “The History of Statistics: A Discussion-Intensive Seminar on 20th Century Development and Beyond,” In Amy Shell-Gellasch and Dick Jardine (eds.), _The Courses of History: Ideas for Developing a History of Mathematics Course_. Washington, DC: MAA Press. ([web access](https://www.maa.org/press/ebooks/the-courses-of-history))
+Thomley, Jill E. (2018). “The History of Statistics: A Discussion-Intensive Seminar on 20th Century Development and Beyond,” In Amy Shell-Gellasch and Dick Jardine (eds.), _The Courses of History: Ideas for Developing a History of Mathematics Course_. Washington, DC: MAA Press.
 
-Thomley, Jill E. (2018). “[Example of a Well-Designed Course in Statistics](http://www.designlearning.org/examples-of-design/examples/),” _Designing Significant Learning Experiences: Course Examples_. 
+Greenwald, Sarah J., Leggett, Anne M., and Thomley, Jill E. (2015). “The Association for Women in Mathematics: How and Why It Was Founded, and Why It’s Still Needed in the 21st Century.” _The Mathematical Intelligencer_, 37(3), pp. 11–21. 
+([web access](http://doi.org/10.1007/s00283-015-9539-8))
 
-Santisteban, Maria S., Thomley, Jill E., and Bullard-Dillard, Rebecca. (2017). “S-STEM Scholarship Program at UNC Pembroke: a COMPASS for Science Majors,” _Proceedings of the ASEE Annual Conference & Exposition_ (pp. 5984-6005).  Washington, DC: American Society for Engineering Education.
-
-Hahn, D. Caldwell, Wingfield, John C., Fox, David M., Walker, Brian G., and Thomley, Jill E. (2017). “Maternal Androgens in Avian Brood Parasites and Their Hosts: Responses to Parasitism and Competition?” _General and Comparative Endocrinology_, 240, 143-152.
-
-Greenwald, Sarah J., Leggett, Anne M., and Thomley, Jill E. (2015). “The Association for Women in Mathematics: How and Why It Was Founded, and Why It’s Still Needed in the 21st Century,” _The Mathematical Intelligencer_, 37(3), 11-21.
 
 ## The Encyclopedia of Mathematics and Society
 
