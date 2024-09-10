@@ -1,139 +1,97 @@
 ---
-title: "Dr. Thomley's Spring 2022 Schedule"
+title: "Dr. Thomley's Fall 2024 Schedule"
 output: html_document
 ---
 
 <hr>
 
-I am teaching online this semester and will rarely be physically in my office. Students enrolled in my classes should use their private forums on AsULearn to contact me electronically, as directed in their syllabus. I will not answer direct email from students who are currently in my classes, unless it is an emergency. Changes to this schedule will be announced to students via Course Announcements on AsULearn.
-
-The number of office hours offered in a given semester is a function of the credit hours of standard classes a professor is teaching. You can book Office Hour appointments in 15-minute increments [HERE](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU0zQUk4blgtNW44fGRlZmF1bHR8Y2EyZDZmYTMxNmZjMWEwMjdiMzE0ZjQ1MmEwNDFjMmE). If you feel like you will need more than 15 minutes, book more than one slot. Drop-ins are also welcome, but any scheduled appointments will take priority. Zoom links for office hours are available on AsULearn.
+Students enrolled in my classes should use their Private Forums on AsULearn to contact me electronically, as directed in their syllabus. I will not answer direct email from students who are currently in my classes, unless it is an emergency. Changes to my overall schedule and availability for Student Help Hours will be announced to students via AsULearn. You may meet with me in person T/R in WA 228 or via Zoom. Hours marked with an asterisk (*) are Zoom-only. A link for Zoom is available on AsULearn. You also can book Help Hours appointments in 15-minute increments on AsULearn. Drop-ins are also welcome, but scheduled appointments will take priority. 
 
 ```{r, echo = FALSE, message = FALSE}
-library(dplyr)
+library(tidyverse)
+library(readxl)
 library(kableExtra)
-df <- data.frame(Time = c("10:00-10:30",
-                          "10:30-11:00",
-                          "11:00-11:30",                          
-                          "11:30-12:00",                          
-                          "12:00-12:30",                          
-                          "12:30-01:00",                          
-                          "01:00-01:30",                          
-                          "01:30-02:00",                          
-                          "02:00-02:30",                          
-                          "02:30-03:00",                          
-                          "03:00-03:30",                          
-                          "03:30-04:00",                          
-                          "04:00-04:30",                          
-                          "04:30-05:00",                          
-                          "05:00-05:30",
-                          "05:30-06:00",
-                          "06:00-06:30",
-                          "06:30-07:00",
-                          "07:00-07:30",
-                          "07:30-08:00"),
-                 Monday = c(" ",
-                            " ",
-                            " ",                          
-                            " ",                          
-                            " ",                          
-                            " ",                          
-                            "Lunch",                          
-                            "Lunch",                          
-                            "Meeting ",                          
-                            "Meeting",                          
-                            "Meeting",                          
-                            " ",                          
-                            " ",                          
-                            " ",                          
-                            " ",
-                            " ",
-                            " ",
-                            " ",
-                            " ",
-                            " "), 
-                 Tuesday = c(" ",
-                             " ",
-                             " ",                          
-                             " ",                          
-                             "Office Hours ",                          
-                             "Office Hours",                          
-                             "Lunch ",                          
-                             "Lunch",                          
-                             "STT3850",                          
-                             "STT3850",                          
-                             "STT3850",                          
-                             "STT2860",                          
-                             "STT2860",                          
-                             "STT2860",                          
-                             " ",
-                             "IRB/Meeting",
-                             "IRB/Meeting",
-                             "IRB/Meeting",
-                             "IRB/Meeting",
-                             "IRB/Meeting"),  
-                 Wednesday = c(" ",
-                               " ",
-                               " ",                          
-                               " ",                          
-                               "Office Hours",                          
-                               "Office Hours",                          
-                               "Lunch",                          
-                               "Lunch",                          
-                               "STT3850",                          
-                               "STT3850",                          
-                               "Meeting ",                          
-                               "Meeting",                          
-                               "Meeting",                          
-                               "",                         
-                               " ",
-                               " ",
-                               "Office Hours",
-                               "Office Hours",
-                               " ",
-                               " "),
-                 Thursday = c(" ",
-                             " ",
-                             " ",                          
-                             " ",                          
-                             "Office Hours ",                          
-                             "Office Hours",                          
-                             "Lunch ",                          
-                             "Lunch",                          
-                             "STT3850",                          
-                             "STT3850",                          
-                             "STT3850",                          
-                             "STT2860",                          
-                             "STT2860",                          
-                             "STT2860",                          
-                             " ",
-                             " ",
-                             " ",
-                             " ",
-                             " ",
-                             " "), 
-                 Friday = c("Scholarship",
-                            "Scholarship",
-                            "Scholarship",
-                            "Scholarship",
-                            "Scholarship",
-                            "Scholarship",
-                            "Lunch",                         
-                            "Lunch",
-                            "Scholarship",
-                            "Scholarship",
-                            "Scholarship",                          
-                            "Scholarship",
-                            "Scholarship",
-                            "Scholarship",
-                            "Scholarship",
-                            "Scholarship",
-                            " ",
-                            " ",
-                            " ",
-                            " "))
+```
 
-kable(df, format = "html", escape = FALSE, align = c("c","c","c","c","c","c")) %>%
+```{r, echo = FALSE, message = FALSE}
+data <- read_xlsx(
+  "schedule.xlsx",
+  sheet = 1
+) %>%
+  replace(is.na(.), " ") %>%
+  mutate(
+    Monday = cell_spec(Monday,
+      background =
+        case_when(
+          Monday == "STT 1810" ~ "#ffc04d",
+          Monday == "STT 4811" ~ "#ffa500",
+          Monday == "Help Hours" ~ "#9af0ff",
+          Monday == "Help Hours*" ~ "#9af0ff",
+          Monday == "Meeting" ~ "#d9d9d9",
+          .default = "#00000000"
+        )
+    )
+  ) %>%
+  mutate(
+    Tuesday = cell_spec(Tuesday,
+      background =
+        case_when(
+          Tuesday == "STT 1810" ~ "#ffc04d",
+          Tuesday == "STT 4811" ~ "#ffa500",
+          Tuesday == "Help Hours" ~ "#9af0ff",
+          Tuesday == "Help Hours*" ~ "#9af0ff",
+          Tuesday == "Meeting" ~ "#d9d9d9",
+          .default = "#00000000"
+        )
+    )
+  ) %>%
+  mutate(
+    Wednesday = cell_spec(Wednesday,
+      background =
+        case_when(
+          Wednesday == "STT 1810" ~ "#ffc04d",
+          Wednesday == "STT 4811" ~ "#ffa500",
+          Wednesday == "Help Hours" ~ "#9af0ff",
+          Wednesday == "Help Hours*" ~ "#9af0ff",
+          Wednesday == "Meeting" ~ "#d9d9d9",
+          .default = "#00000000"
+        )
+    )
+  ) %>%
+  mutate(
+    Thursday = cell_spec(Thursday,
+      background =
+        case_when(
+          Thursday == "STT 1810" ~ "#ffc04d",
+          Thursday == "STT 4811" ~ "#ffa500",
+          Thursday == "Help Hours" ~ "#9af0ff",
+          Thursday == "Help Hours*" ~ "#9af0ff",
+          Thursday == "Meeting" ~ "#d9d9d9",
+          .default = "#00000000"
+        )
+    )
+    ) %>%
+    mutate(
+    Friday = cell_spec(Friday,
+      background =
+        case_when(
+          Friday == "STT 1810" ~ "#ffc04d",
+          Friday == "STT 4811" ~ "#ffa500",
+          Friday == "Help Hours" ~ "#9af0ff",
+          Friday == "Help Hours*" ~ "#9af0ff",
+          Friday == "Meeting" ~ "#d9d9d9",
+          .default = "#00000000"
+            )
+        )
+      )
+```
+
+```{r, echo = FALSE, message = FALSE}
+kable(data,
+  format = "html",
+  escape = FALSE,
+  align = "cccccc"
+) %>%
   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 ```
 
