@@ -14,8 +14,9 @@ Kelly, Melissa, Braswell, April A., Thomley, Jill E. (2024). “Optimizing Sexua
 Greenwald, Sarah J. and Thomley, Jill E. (2020). “Using Technology as a Pathway Towards Equity, Diversity, and Inclusion.” In _Proceedings of the 32nd International Conference on Technology in Collegiate Mathematics._
 ([web access](https://www.pearson.com/us/about/news-events/events/ictcm-archive-2020.html)) 
 
-
 Selbach-Allen, Megan E., Greenwald, Sarah J. Ksir, Amy E., and Thomley, Jill E. (2020). “Raising the Bar with Standards-Based Grading,” _PRIMUS_, 30(8-10), 1110-1126. (special issue)
+
+<blockquote><div style = "font-size: 14px;">[PRIMUS Editors' Picks 2024, Most Downloaded Paper](https://primusmath.com/2025/01/03/editors-picks-2024/): We select a paper that is already highly active in part because this activity is evidence that people are finding this paper useful and compelling. This suggests to me that the subset of people who already had access to this paper, and people who went out of their way to get this paper, believe that this paper needs to be ready by a wider cross-section of our community. It might seem like this one is not a choice, but not all papers are uniformly accessible in time or method, so there is some editorial discretion needed ... This paper compares implementation of standards-based grading across institutions to explore tradeoffs and subtleties in decision-making. I’m excited about the national conversation happening in our discipline about the impacts of grading, but it worries me how many people are left to reinvent a new paradigm on their own. This is one of the papers that can support new thinkers and help our whole community move forward more effectively."</div></blockquote>
 
 Henson, Kevin S., Thomley, Jill E., Lowrie, Lynn J., and Walker, Deborah. (2019). “Comparison of Selected Outcomes Associated with Two Post-Operative Analgesia Approaches in the Total Knee Arthroplasty Patient,” _AANA Journal_, 87(1), 51-57. ([web access](https://doi.org/10.1016/j.jclinane.2021.110257)) 
 
@@ -27,11 +28,11 @@ Greenwald, Sarah J., Leggett, Anne M., and Thomley, Jill E. (2015). “The Assoc
 
 ## The Encyclopedia of Mathematics and Society
 
-Greenwald, S.J. and Thomley, J.E. (Eds). (2011). _The Encyclopedia of Mathematics and Society, Vols. 1-3_. Pasadena, CA: Salem Press. ISBN: 978-1-58765-844-0, e-ISBN: 978-1-58765-848-8
+Greenwald, S.J. and Thomley, J.E. (Eds). (2011). _The Encyclopedia of Mathematics and Society, Vols. 1-3_. Pasadena, CA: Salem Press. ISBN: 978-1-58765-844-0, e-ISBN: 978-1-58765-848-8 (see also the [Salem Press webpage](https://www.salempress.com/Encyclopedia-of-mathematics))
 
-_The goal of The	Encyclopedia	of	Mathematics	and	Society is to weave multilayered connections between society, history, people, applications, and mathematics ... In general, the articles do not teach or present detailed mathematical theory, derivations, and equations ... Instead, we intended them to serve as a foundation and jumping-off point for additional explorations. As mathematics professor and educator Art Johnson has noted in other settings, we hope that this type of contextualization helps people to "see mathematics as a discipline that transcends culture, time, and gender, and as a discipline for everyone, everywhere."_ (Introduction, p. x)
+_The goal of The Encyclopedia of	Mathematics	and	Society is to weave multilayered connections between society, history, people, applications, and mathematics ... In general, the articles do not teach or present detailed mathematical theory, derivations, and equations ... Instead, we intended them to serve as a foundation and jumping-off point for additional explorations. As mathematics professor and educator Art Johnson has noted in other settings, we hope that this type of contextualization helps people to "see mathematics as a discipline that transcends culture, time, and gender, and as a discipline for everyone, everywhere."_ (Introduction, p. x)
 
-"This enlightening, well-written set, which has no current competitors, is highly recommended for all public and academic libraries. The material offers an entirely new way of looking at things." --- [Library Journal](https://www.libraryjournal.com/) Best Reference, 2011  
+<blockquote><div style = "font-size: 14px;">[Library Journal](https://www.libraryjournal.com/) Best Reference, 2011: "This enlightening, well-written set, which has no current competitors, is highly recommended for all public and academic libraries. The material offers an entirely new way of looking at things."</div></blockquote>
 
 Digital access to the _Encyclopedia of Mathematics and Society_ is available through the [ASU Library](https://library.appstate.edu/).
 

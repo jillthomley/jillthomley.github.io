@@ -1,5 +1,5 @@
 ---
-title: "Dr. Thomley's Fall 2024 Schedule"
+title: "Dr. Thomley's Spring 2025 Schedule"
 output: html_document
 ---
 
@@ -7,7 +7,7 @@ output: html_document
 
 Students enrolled in my classes should use their Private Forums on AsULearn to contact me electronically, as directed in their syllabus. I will not answer direct email from students who are currently in my classes, unless it is an emergency. Changes to my overall schedule and availability for Student Help Hours will be announced to students via AsULearn.
 
-The number of office hours offered in a given semester is a function of the credit hours of standard classes a professor is teaching. You can book Help Hours appointments in 15-minute increments [**HERE**](https://calendar.app.google/oVcdEehYBYjQk7oz6). If you feel like you will need more than 15 minutes, book more than one slot. Drop-ins are also welcome, but scheduled appointments will take priority. You may meet with me in person T/R in WA 228 or via Zoom. Hours marked with an asterisk (*) are Zoom-only. A link for Zoom is available on AsULearn.
+The number of office hours offered in a given semester is a function of the credit hours of standard classes a professor is teaching. You can book Help Hours appointments in 15-minute increments [**HERE**](https://calendar.app.google/s1ZKTYw4E5gmXxL18). If you feel like you will need more than 15 minutes, book more than one slot. Drop-ins are also welcome, but scheduled appointments will take priority. You may meet with me in person T/R in WA 228 or via Zoom. *Please note, Help Hours begin at 10:15 am and 2:15 pm rather than on the hour.*
 
 ```{r, echo = FALSE, message = FALSE}
 library(tidyverse)
@@ -26,7 +26,7 @@ data <- read_xlsx(
       background =
         case_when(
           Monday == "STT 1810" ~ "#ffc04d",
-          Monday == "STT 4811" ~ "#ffa500",
+          Monday == "STT 4812" ~ "#ffa500",
           Monday == "Help Hours" ~ "#9af0ff",
           Monday == "Help Hours*" ~ "#9af0ff",
           Monday == "Meeting" ~ "#d9d9d9",
@@ -39,7 +39,7 @@ data <- read_xlsx(
       background =
         case_when(
           Tuesday == "STT 1810" ~ "#ffc04d",
-          Tuesday == "STT 4811" ~ "#ffa500",
+          Tuesday == "STT 4812" ~ "#ffa500",
           Tuesday == "Help Hours" ~ "#9af0ff",
           Tuesday == "Help Hours*" ~ "#9af0ff",
           Tuesday == "Meeting" ~ "#d9d9d9",
@@ -52,7 +52,7 @@ data <- read_xlsx(
       background =
         case_when(
           Wednesday == "STT 1810" ~ "#ffc04d",
-          Wednesday == "STT 4811" ~ "#ffa500",
+          Wednesday == "STT 4812" ~ "#ffa500",
           Wednesday == "Help Hours" ~ "#9af0ff",
           Wednesday == "Help Hours*" ~ "#9af0ff",
           Wednesday == "Meeting" ~ "#d9d9d9",
@@ -65,7 +65,7 @@ data <- read_xlsx(
       background =
         case_when(
           Thursday == "STT 1810" ~ "#ffc04d",
-          Thursday == "STT 4811" ~ "#ffa500",
+          Thursday == "STT 4812" ~ "#ffa500",
           Thursday == "Help Hours" ~ "#9af0ff",
           Thursday == "Help Hours*" ~ "#9af0ff",
           Thursday == "Meeting" ~ "#d9d9d9",
@@ -78,7 +78,7 @@ data <- read_xlsx(
       background =
         case_when(
           Friday == "STT 1810" ~ "#ffc04d",
-          Friday == "STT 4811" ~ "#ffa500",
+          Friday == "STT 4812" ~ "#ffa500",
           Friday == "Help Hours" ~ "#9af0ff",
           Friday == "Help Hours*" ~ "#9af0ff",
           Friday == "Meeting" ~ "#d9d9d9",

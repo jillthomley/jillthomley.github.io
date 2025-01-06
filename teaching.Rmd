@@ -5,10 +5,16 @@ output: html_document
 
 <hr>
 
+## Spring 2025
+
+* STT 1810 Basic Statistics (&times; 2)
+* STT 4812 Statistical Concepts and Applications II (Boone and Hickory)
+
 ## Fall 2024
 
 * STT 1810 Basic Statistics (&times; 2)
-* STT 4811 Statistical Concepts and Applications I
+* STT 4811 Statistical Concepts and Applications I (Boone and Hickory)
+* Teaching Apprenticeship
 
 ## Spring 2024
 
@@ -53,7 +59,7 @@ output: html_document
 
 ## Spring 2020
 
-* [STT3500 Intermediate Data Visualization in R](https://github.com/STAT-JET-ASU/IntermediateDataVisR/blob/master/README.md) (&times; 2)
+* STT3500 Intermediate Data Visualization in R (&times; 2)
 * STT 3500 Statistical Investigation of US Wage Gaps
 * STT 3850 Statistical Data Analysis 1
 * STT 3520 Instructional Assistant

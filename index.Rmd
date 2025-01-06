@@ -20,8 +20,7 @@ title: "Welcome!"
 * mathematics / statistics in popular culture
 * [Women in Mathematics Patch for Girl Scouts](https://cs.appstate.edu/sjg/awm/earnedbadge.html)
 
-<div data-cdc-widget="COVIDCountyCheck" ></div> 
-<script src="https://tools.cdc.gov/1M1B"></script>
+My co-authors and I are pleased to announce that our paper **“Raising the Bar with Standards-Based Grading”** has been chosen as the [PRIMUS Editors' Picks 2024, Most Downloaded Paper](https://primusmath.com/2025/01/03/editors-picks-2024/). Please refer to the PRIMUS link or my [Scholarship](https://jillthomley.github.io/scholarship.html) page for more information.
 
 *This site was last rendered on `r format(Sys.time(), "%A, %B %d, %Y at %I:%M %p.")`*
 
