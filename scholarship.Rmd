@@ -7,7 +7,7 @@ output: html_document
 
 ## Selected Recent Publications (see my [full CV](https://jillthomley.github.io/Thomley-Jill-CV-web.pdf))
 
-Greenwald, Sarah J. and Thomley, Jill E. (2024). “How The Sex Lives of College Girls May Shape Perceptions on the Culture of Mathematics.” In H. Verrill, K. Kattchee, S.L. Gould, and E. Torrence (Eds.), Proceedings of Bridges 2024: Mathematics, Art, Music, Architecture, Culture, pp. 77–84. Tesselations Publishing. ([web access](http://archive.bridgesmathart.org/2024/bridges2024-77.html))
+Greenwald, Sarah J. and Thomley, Jill E. (2024). “How The Sex Lives of College Girls May Shape Perceptions on the Culture of Mathematics.” In H. Verrill, K. Kattchee, S.L. Gould, and E. Torrence (Eds.), *Proceedings of Bridges 2024: Mathematics, Art, Music, Architecture, Culture*, pp. 77–84. Tesselations Publishing. ([web access](http://archive.bridgesmathart.org/2024/bridges2024-77.html))
 
 Kelly, Melissa, Braswell, April A., Thomley, Jill E. (2024). “Optimizing Sexual and Gender Minority Adolescent Health: Evidence into Practice.” _Journal of Pediatric Health Care_, 38(4), pp. 495–603. ([web access](https://doi.org/10.1016/j.pedhc.2024.02.004)) 
 
