@@ -9,6 +9,8 @@ output: html_document
 
 * STT 1810 Basic Statistics (&times; 2)
 * STT 4812 Statistical Concepts and Applications II (Boone and Hickory)
+* Teaching Apprenticeship
+
 
 ## Fall 2024
 
