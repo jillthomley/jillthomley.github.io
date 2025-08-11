@@ -5,12 +5,16 @@ output: html_document
 
 <hr>
 
+## Fall 2025
+
+* STT 1810 Basic Statistics (&times; 2)
+* STT 4811 Statistical Concepts and Applications I
+
 ## Spring 2025
 
 * STT 1810 Basic Statistics (&times; 2)
 * STT 4812 Statistical Concepts and Applications II (Boone and Hickory)
 * Teaching Apprenticeship
-
 
 ## Fall 2024
 
