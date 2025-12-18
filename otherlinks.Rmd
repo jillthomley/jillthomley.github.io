@@ -9,45 +9,48 @@ output: html_document
 
 * [Academic Affairs](https://academicaffairs.appstate.edu/)
 * [AppalAIR](https://appalair.appstate.edu/)
-* [Banner](https://bannerweb.appstate.edu/pls/PROD/twbkwbis.P_WWWLogin)
 * [College of Arts & Sciences](https://cas.appstate.edu/)
 * [Degree Works](https://registrar.appstate.edu/degreeworks)
-* [Early Intervention Team](https://eit.appstate.edu/)
 * [Exam Schedule](https://registrar.appstate.edu/calendars-schedules/exam-schedule-0)
 * [Faculty Handbook](https://facultyhandbook.appstate.edu/)
 * [Mathematical Sciences](https://mathsci.appstate.edu/)
 * [Office of the Registrar](https://registrar.appstate.edu/)
-* [Office of Student Conduct](https://studentconduct.appstate.edu/)
-* [Student Recreation Center](http://urec.appstate.edu/student-recreation-center)
+* [Registration Access](https://registrar.appstate.edu/students/registration-classes/early-registration-access)
+* [Student Conduct](https://studentconduct.appstate.edu/)
+* [Student Success](https://studentsuccess.appstate.edu/)
+* [University Recreation](https://urec.appstate.edu/)
 
 ## Professional Organizations
 
+* [American Mathematical Association of Two-Year Colleges](https://www.amatyc.org/)
 * [American Statistical Association](http://www.amstat.org/)
-* [American Statistical Association, NC Chapter](http://community.amstat.org/northcarolina/home)
-* [Association for Women in Mathematics](https://sites.google.com/site/awmmath/home)
+* [American Statistical Association NC](http://community.amstat.org/northcarolina/home)
+* [Association for Women in Mathematics](https://awm-math.org/)
 * [Mathematical Association of America](https://www.maa.org/)
+* [National Council of Teachers of Mathematics](https://www.nctm.org/)
 * [North Carolina Council of Teachers of Mathematics](https://www.ncctm.org/)
 
 ## Statistics and Data Science
 
-* [AMSTAT News Archives](http://magazine.amstat.org/archives/)
-* [ASA Develops Reproducible Research Recommendations](https://www.amstat.org/ASA/News/ASA-Develops-Reproducible-Research-Recommendations.aspx)
+* [ASA Member News Archive](https://ww2.amstat.org/newsletters/NewsletterArchives.cfm)
+* [ASA Reproducible Research Recommendations](https://www.amstat.org/news-listing/2021/10/11/asa-develops-reproducible-research-recommendations)
 * [ASA Statement on the Role of Statistics in Data Science](http://magazine.amstat.org/blog/2015/10/01/asa-statement-on-the-role-of-statistics-in-data-science/)
-* [Ethical Guidelines for Statistical Practice](http://www.amstat.org/ASA/Your-Career/Ethical-Guidelines-for-Statistical-Practice.aspx)
-* [Initial Steps Toward Reproducible Research](https://kbroman.org/steps2rr/)
+* [ASA Ethical Guidelines for Statistical Practice](http://www.amstat.org/ASA/Your-Career/Ethical-Guidelines-for-Statistical-Practice.aspx)
+* [Karl Broman's Initial Steps Toward Reproducible Research](https://kbroman.org/steps2rr/)
 * [Reproducible Research in Computational Science](http://science.sciencemag.org/content/334/6060/1226)
 * [The Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/)
-* [North Carolina AccessNC Datasets](https://opendata.nccommerce.com/pages/home/)
 
 ## Local Information
 
-* [Quiet Givers](https://quietgivers.org/)
-* [GoBlueRidge](https://goblueridge.net/)
 * [Blowing Rocket](https://www.wataugademocrat.com/blowingrocket/)
-* [Mountain Times](https://www.wataugademocrat.com/mountaintimes/)
-* [Watauga Democrat](https://www.wataugademocrat.com/)
+* [Explore Boone](https://www.exploreboone.com/)
+* [GoBlueRidge](https://goblueridge.net/)
 * [High Country Press](https://www.hcpress.com/)
-* [Watauga County Recreation Center](http://www.wataugacounty.org/App_Pages/Dept/ParksRec/home.aspx)
+* [Mountain Times](https://www.wataugademocrat.com/mountaintimes/)
+* [Quiet Givers](https://quietgivers.org/)
+* [Watauga County Parks & Recreation](http://www.wataugacounty.org/App_Pages/Dept/ParksRec/home.aspx)
+* [Watauga Democrat](https://www.wataugademocrat.com/)
+* [Watauga Humane Society](https://wataugahumane.org/)
 
 ## Weather Services
 

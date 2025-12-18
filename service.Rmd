@@ -5,6 +5,15 @@ output: html_document
 
 <hr>
 
+## Academic Year 2025--2026
+
+* Statistics Director
+* [ASU Human Subjects: Institutional Review Board (IRB)](https://researchprotections.appstate.edu/human-subjects), Deputy Chair
+* [Pi Mu Epsilon Mathematics Honor Society](http://www.cs.appstate.edu/sjg/PiMuEpsilon/), Co-Advisor
+* Department of Mathematical Science Curriculum Committee
+* Appointment, Promotion, and Tenure Committee
+* STT 1810 Course Convener
+
 ## Academic Year 2024--2025
 
 * [ASU Human Subjects: Institutional Review Board (IRB)](https://researchprotections.appstate.edu/human-subjects), Deputy Chair
@@ -24,14 +33,14 @@ output: html_document
 
 * [ASU Human Subjects: Institutional Review Board (IRB)](https://researchprotections.appstate.edu/human-subjects)
 * Mathematical Sciences Assessment Objectives Committee
-* STT1810 Course Redevelopment Committee (co-chair)
+* STT 1810 Course Redevelopment Committee (co-chair)
 * [Pi Mu Epsilon Mathematics Honor Society](http://cs.appstate.edu/sjg/PiMuEpsilon/), Co-Advisor
 
 ## Academic Year 2021--2022
 
 * [ASU Human Subjects: Institutional Review Board (IRB)](https://researchprotections.appstate.edu/human-subjects)
 * Mathematical Sciences Assessment Objectives Committee
-* STT1810 Course Redevelopment Committee (co-chair)
+* STT 1810 Course Redevelopment Committee (co-chair)
 * [Pi Mu Epsilon Mathematics Honor Society](http://cs.appstate.edu/sjg/PiMuEpsilon/), Co-Advisor
 
 ## Academic Year 2020--2021

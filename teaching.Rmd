@@ -5,6 +5,11 @@ output: html_document
 
 <hr>
 
+## Spring 2025
+
+* STT 4812 Statistical Concepts and Applications II
+* STT 5811 Statistical Concepts and Applications I
+
 ## Fall 2025
 
 * STT 1810 Basic Statistics (&times; 2)

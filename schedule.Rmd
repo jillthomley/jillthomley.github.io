@@ -1,13 +1,13 @@
 ---
-title: "Dr. Thomley's Fall 2025 Schedule"
+title: "Dr. Thomley's Spring 2026 Schedule"
 output: html_document
 ---
 
 <hr>
 
-Students enrolled in my classes should use their Private Forums on AsULearn to contact me electronically, as directed in their syllabus. I will not answer direct email from students who are currently in my classes, unless it is an emergency. Changes to my overall schedule and availability for Student Help Hours will be announced to students via AsULearn.
+Students enrolled in my classes should use their **Private Forums** on AsULearn to contact me electronically, as directed in their syllabus. I will not answer direct email from students who are currently in my classes, unless it is an emergency. Changes to my overall schedule and availability for Student Help Hours will be announced to students via AsULearn.
 
-The number of office hours offered in a given semester is a function of the credit hours of standard classes a professor is teaching. You can book Help Hours appointments in 15-minute increments [**HERE**](https://calendar.app.google/s1ZKTYw4E5gmXxL18). If you feel like you will need more than 15 minutes, book more than one slot. You may meet with me in person T/R in Walker Hall 228 or via Zoom. 
+The number of office hours offered in a given semester is a function of the credit hours of standard classes a professor is teaching. You can book Help Hours appointments in 15-minute increments [**HERE**](https://calendar.app.google/s1ZKTYw4E5gmXxL18). If you feel like you will need more than 15 minutes, book more than one slot. You may meet with me in person Tue/Thu in Walker Hall 228 or via Zoom. 
 
 ```{r, echo = FALSE, message = FALSE}
 library(tidyverse)
@@ -25,10 +25,10 @@ data <- read_xlsx(
     Monday = cell_spec(Monday,
       background =
         case_when(
-          Monday == "STT 4811" ~ "#ffc04d",
-          Monday == "STT 1810" ~ "#ffa500",
-          Monday == "Help Hours" ~ "#ffdb9a",
-          Monday == "Meeting" ~ "#d9d9d9",
+          Monday == "STT 4812" ~ "#FFCC00",
+          Monday == "STT 5811" ~ "#d7a527",
+          Monday == "Help Hours" ~ "#d5c99a",
+          Monday == "Meeting" ~ "#d6d6d7",
           .default = "#00000000"
         )
     )
@@ -37,10 +37,10 @@ data <- read_xlsx(
     Tuesday = cell_spec(Tuesday,
       background =
         case_when(
-          Tuesday == "STT 4811" ~ "#ffc04d",
-          Tuesday == "STT 1810" ~ "#ffa500",
-          Tuesday == "Help Hours" ~ "#ffdb9a",
-          Tuesday == "Meeting" ~ "#d9d9d9",
+          Tuesday == "STT 4812" ~ "#FFCC00",
+          Tuesday == "STT 5811" ~ "#d7a527",
+          Tuesday == "Help Hours" ~ "#d5c99a",
+          Tuesday == "Meeting" ~ "#d6d6d7",
           .default = "#00000000"
         )
     )
@@ -49,10 +49,10 @@ data <- read_xlsx(
     Wednesday = cell_spec(Wednesday,
       background =
         case_when(
-          Wednesday == "STT 4811" ~ "#ffc04d",
-          Wednesday == "STT 1810" ~ "#ffa500",
-          Wednesday == "Help Hours" ~ "#ffdb9a",
-          Wednesday == "Meeting" ~ "#d9d9d9",
+          Wednesday == "STT 4812" ~ "#FFCC00",
+          Wednesday == "STT 5811" ~ "#d7a527",
+          Wednesday == "Help Hours" ~ "#d5c99a",
+          Wednesday == "Meeting" ~ "#d6d6d7",
           .default = "#00000000"
         )
     )
@@ -61,10 +61,10 @@ data <- read_xlsx(
     Thursday = cell_spec(Thursday,
       background =
         case_when(
-          Thursday == "STT 4811" ~ "#ffc04d",
-          Thursday == "STT 1810" ~ "#ffa500",
-          Thursday == "Help Hours" ~ "#ffdb9a",
-          Thursday == "Meeting" ~ "#d9d9d9",
+          Thursday == "STT 4812" ~ "#FFCC00",
+          Thursday == "STT 5811" ~ "#d7a527",
+          Thursday == "Help Hours" ~ "#d5c99a",
+          Thursday == "Meeting" ~ "#d6d6d7",
           .default = "#00000000"
         )
     )
@@ -73,10 +73,10 @@ data <- read_xlsx(
     Friday = cell_spec(Friday,
       background =
         case_when(
-          Friday == "STT 4811" ~ "#ffc04d",
-          Friday == "STT 1810" ~ "#ffa500",
-          Friday == "Help Hours" ~ "#ffdb9a",
-          Friday == "Meeting" ~ "#d9d9d9",
+          Friday == "STT 4812" ~ "#FFCC00",
+          Friday == "STT 5811" ~ "#d7a527",
+          Friday == "Help Hours" ~ "#d5c99a",
+          Friday == "Meeting" ~ "#d6d6d7",
           .default = "#00000000"
             )
         )
