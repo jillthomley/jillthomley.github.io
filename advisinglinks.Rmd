@@ -1,0 +1,41 @@
+---
+title: "Advising Links"
+output: html_document
+---
+
+<hr>
+
+## Degree Works & Classes
+
+* [AppalNet Main Page](https://appalnet.appstate.edu/)
+* [Degree Works Main Page](https://registrar.appstate.edu/degreeworks)
+* [Early Registration Access Page](https://registrar.appstate.edu/students/registration-classes/early-registration-access)
+* [Banner 9 Self-Service Direct Link](https://bannerweb.appstate.edu/)
+* [Banner 9 Class Search Direct Link](https://bannerxe.appstate.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search)
+* [Banner 9 Student Self-Service Guide](https://confluence.appstate.edu/spaces/ATKB/pages/339509456/Student+Self-Service+Guide)
+
+## Undergraduate Bulletins
+
+* [Undergraduate Bulletin 2025-2026 Main Page](https://bulletin.appstate.edu/index.php?catoid=39)
+* [Undergraduate Bulletin 2024-2025 Main Page](https://bulletin.appstate.edu/index.php?catoid=34)
+* [Undergraduate Bulletin 2023-2024 Main Page](https://bulletin.appstate.edu/index.php?catoid=30)
+
+## Mathematical Sciences
+
+* [Department of Mathematical Sciences](https://mathsci.appstate.edu/)
+* [Special Course Offerings](https://mathsci.appstate.edu/nonstandard_courses)
+* [Department Honors Program](https://mathsci.appstate.edu/academics/honors-program)
+* [Undergraduate Certificate in Sports Analytics](https://mathsci.appstate.edu/academics/sports-analytics-certificate)
+* [Undergraduate Minor in Mathematics or Statistics](https://mathsci.appstate.edu/academics/minoring-math-or-statistics)
+* [Data Science Certificate Program in Computer Science](https://cs.appstate.edu/data_science/)
+
+## College & University 
+
+* [Office of the Registrar](https://registrar.appstate.edu/)
+* [College of Arts and Sciences](https://cas.appstate.edu/)
+* [College of Arts and Sciences Student Forms](https://cas.appstate.edu/advising/student-forms)
+* [Student Conduct and Academic Integrity](https://studentconduct.appstate.edu/)
+* [Student Success Services & Support](https://studentsuccess.appstate.edu/)
+* [University Exam Schedules](https://registrar.appstate.edu/calendars-schedules/exam-schedule-0)
+
+<hr>

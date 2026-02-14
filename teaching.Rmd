@@ -5,82 +5,22 @@ output: html_document
 
 <hr>
 
-## Spring 2025
+## Spring 2026
 
 * STT 4812 Statistical Concepts and Applications II
-* STT 5811 Statistical Concepts and Applications I
+* STT 5811 Statistical Concepts and Applications
 
 ## Fall 2025
 
 * STT 1810 Basic Statistics (&times; 2)
 * STT 4811 Statistical Concepts and Applications I
 
-## Spring 2025
-
-* STT 1810 Basic Statistics (&times; 2)
-* STT 4812 Statistical Concepts and Applications II (Boone and Hickory)
-* Teaching Apprenticeship
-
-## Fall 2024
-
-* STT 1810 Basic Statistics (&times; 2)
-* STT 4811 Statistical Concepts and Applications I (Boone and Hickory)
-* Teaching Apprenticeship
-
-## Spring 2024
-
-* STT 1810 Basic Statistics
-* STT 2860 Introduction to Data Management and Visualization
-* STT 4812 Statistical Concepts and Applications II
-
-## Fall 2023
-
-* STT 1810 Basic Statistics
-* STT 2860 Introduction to Data Management and Visualization
-* STT 4811 Statistical Concepts and Applications I
-
-## Spring 2023
-
-* STT 1810 Basic Statistics (&times; 2)
-* STT 2860 Introduction to Data Management and Visualization
-* STT 3500 Ethics in Statistics Practice
-
-## Fall 2022
-
-* STT 1810 Basic Statistics (&times; 2)
-* STT 2860 Introduction to Data Management and Visualization
-
-## Spring 2022
-
-* STT 2860 Introduction to Data Management and Visualization
-* STT 3850 Statistical Data Analysis 1
-
-## Fall 2021
-
-* STT 2860 Introduction to Data Management and Visualization
-* STT 3850 Statistical Data Analysis 1 (&times; 2)
-
-## Spring 2021
-
-* STT3850 Statistical Data Analysis 1 (&times; 2)
-
-## Fall 2020
-
-* I was on medical leave during Fall 2020
-
-## Spring 2020
-
-* STT3500 Intermediate Data Visualization in R (&times; 2)
-* STT 3500 Statistical Investigation of US Wage Gaps
-* STT 3850 Statistical Data Analysis 1
-* STT 3520 Instructional Assistant
-* MAT 4510 Senior Honors Thesis
-
 ## Resources
 
 * [GitHub Course Repositories](https://github.com/STAT-JET-ASU)
-* [ASU RStudio Server](https://mathr.appstate.edu)
-* [WileyPLUS Main Page](https://education.wiley.com/ngonboard/index.html)
+* [App State RStudio Server](https://mathr.appstate.edu)
 * [ISI 2nd Edition Applets](https://www.isi-stats.com/isi2nd/ISIapplets2021.html)
+* [WileyPLUS Login Page](https://education.wiley.com/)
+
 
 <hr>
