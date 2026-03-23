@@ -25,9 +25,9 @@ output: html_document
 * [Department of Mathematical Sciences](https://mathsci.appstate.edu/)
 * [Special Course Offerings](https://mathsci.appstate.edu/nonstandard_courses)
 * [Department Honors Program](https://mathsci.appstate.edu/academics/honors-program)
-* [Undergraduate Certificate in Sports Analytics](https://mathsci.appstate.edu/academics/sports-analytics-certificate)
-* [Undergraduate Minor in Mathematics or Statistics](https://mathsci.appstate.edu/academics/minoring-math-or-statistics)
-* [Data Science Certificate Program in Computer Science](https://cs.appstate.edu/data_science/)
+* [Certificate in Sports Analytics](https://mathsci.appstate.edu/academics/sports-analytics-certificate)
+* [Minor in Mathematics or Statistics](https://mathsci.appstate.edu/academics/minoring-math-or-statistics)
+* [Related: CS Data Science Certificate](https://cs.appstate.edu/data_science/)
 
 ## College & University 
 
