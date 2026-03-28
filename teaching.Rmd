@@ -17,9 +17,11 @@ output: html_document
 
 ## Resources
 
-* [GitHub Course Repositories](https://github.com/STAT-JET-ASU)
-* [App State RStudio Server](https://mathr.appstate.edu)
+* [AppState Posit Server](https://mathr.appstate.edu)
+* [Desmos Studio](https://www.desmos.com/)
+* [GitHub Course Repos](https://github.com/STAT-JET-ASU)
 * [ISI 2nd Edition Applets](https://www.isi-stats.com/isi2nd/ISIapplets2021.html)
+* [Tuva Labs](https://tuvalabs.com/)
 * [WileyPLUS Login Page](https://education.wiley.com/)
 
 
