@@ -11,7 +11,7 @@ navbar:
       href: scholarship.html
     - text: "Service"
       href: service.html
-    - text: "Advising Links"
+    - text: "Advising/AppState"
       href: advisinglinks.html
     - text: "Arnholt's Computing Resources"
       href: https://alanarnholt.github.io/resources.html
