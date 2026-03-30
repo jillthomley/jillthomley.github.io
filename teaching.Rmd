@@ -5,17 +5,18 @@ output: html_document
 
 <hr>
 
-## Spring 2026
+## Spring 2026 Courses
 
 * STT 4812 Statistical Concepts and Applications II
 * STT 5811 Statistical Concepts and Applications
+* One-course release for being Statistics Director
 
-## Fall 2025
+## Fall 2025 Courses
 
 * STT 1810 Basic Statistics (&times; 2)
 * STT 4811 Statistical Concepts and Applications I
 
-## Resources
+## Course Resources
 
 * [AppState Posit Server](https://mathr.appstate.edu)
 * [Desmos Studio](https://www.desmos.com/)
@@ -23,6 +24,22 @@ output: html_document
 * [ISI 2nd Edition Applets](https://www.isi-stats.com/isi2nd/ISIapplets2021.html)
 * [Tuva Labs](https://tuvalabs.com/)
 * [WileyPLUS Login Page](https://education.wiley.com/)
+
+## Statistics Applets
+
+* [Matt Bognar's Applets](https://homepage.divms.uiowa.edu/~mbognar/)
+    * Probability Distributions (iOS and Android)
+* [Katie Schneider's Statlets](https://www.usu.edu/math/schneit/ctis/)
+* [Art of Stat Web Apps (Shiny)](https://artofstat.com/web-apps)
+    * Art of Stat: Distributions (iOS and Android)
+    * Art of Stat: Concepts (iOS and Android)
+* [CPM Statistics Applets (Shiny)](CPM Statistics Resources)
+* [Rossman Chance Applet Collection](http://www.rossmanchance.com/applets/)
+* [Stapplet](https://www.stapplet.com/)
+* [StatCrunch Applets](https://www.statcrunch.com/applets/)
+* [StatDistributions](https://www.statdistributions.com/normal/)
+* [StatsCalculators](https://www.statscalculators.com/)
+    * Includes some related R and Python code
 
 
 <hr>
