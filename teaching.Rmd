@@ -27,6 +27,7 @@ output: html_document
 
 ## Statistics Applets
 
+* [Adam Cunningham's Probability Playground](https://www.acsu.buffalo.edu/~adamcunn/)
 * [Matt Bognar's Applets](https://homepage.divms.uiowa.edu/~mbognar/)
     * Probability Distributions (iOS and Android)
 * [Katie Schneider's Statlets](https://www.usu.edu/math/schneit/ctis/)
