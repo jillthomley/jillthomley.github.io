@@ -28,19 +28,20 @@ output: html_document
 ## Statistics Applets
 
 * [Adam Cunningham's Probability Playground](https://www.acsu.buffalo.edu/~adamcunn/)
-* [Matt Bognar's Applets](https://homepage.divms.uiowa.edu/~mbognar/)
+* [Matt Bognar's Applets](https://mabognar.github.io/apps/)
     * Probability Distributions (iOS and Android)
 * [Katie Schneider's Statlets](https://www.usu.edu/math/schneit/ctis/)
 * [Art of Stat Web Apps (Shiny)](https://artofstat.com/web-apps)
     * Art of Stat: Distributions (iOS and Android)
     * Art of Stat: Concepts (iOS and Android)
-* [CPM Statistics Applets (Shiny)](CPM Statistics Resources)
+* [CPM Statistics Applets (Shiny)](https://stats.cpm.org/)
 * [Rossman Chance Applet Collection](http://www.rossmanchance.com/applets/)
 * [Stapplet](https://www.stapplet.com/)
 * [StatCrunch Applets](https://www.statcrunch.com/applets/)
 * [StatDistributions](https://www.statdistributions.com/normal/)
 * [StatsCalculators](https://www.statscalculators.com/)
     * Includes some related R and Python code
+* [The Calculator Site (Miscellaneous)](https://www.thecalculatorsite.com/)
 
 
 <hr>
