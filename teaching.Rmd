@@ -35,7 +35,7 @@ output: html_document
     * Art of Stat: Distributions (iOS and Android)
     * Art of Stat: Concepts (iOS and Android)
 * [CPM Statistics Applets (Shiny)](https://stats.cpm.org/)
-* [Rossman Chance Applet Collection](http://www.rossmanchance.com/applets/)
+* [Rossman Chance Applet Collection](https://www.rossmanchance.com/applets/index2021.html/)
 * [Stapplet](https://www.stapplet.com/)
 * [StatCrunch Applets](https://www.statcrunch.com/applets/)
 * [StatDistributions](https://www.statdistributions.com/normal/)

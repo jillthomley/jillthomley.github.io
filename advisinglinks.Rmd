@@ -10,9 +10,9 @@ output: html_document
 * [AppalNet Main Page](https://appalnet.appstate.edu/)
 * [Degree Works Main Page](https://registrar.appstate.edu/degreeworks)
 * [Early Registration Access Page](https://registrar.appstate.edu/students/registration-classes/early-registration-access)
-* [Banner 9 Self-Service Direct Link](https://bannerweb.appstate.edu/)
-* [Banner 9 Student Self-Service Guide](https://confluence.appstate.edu/spaces/ATKB/pages/339509456/Student+Self-Service+Guide)
-* [Banner 9 Class Search Direct Link](https://bannerxe.appstate.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search)
+* [Self-Service Direct Link (Banner 9)](https://bannerweb.appstate.edu/)
+* [Student Self-Service Guide (Banner 9)](https://confluence.appstate.edu/spaces/ATKB/pages/339509456/Student+Self-Service+Guide)
+* [Class Search Direct Link (Banner 9)](https://bannerxe.appstate.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search)
 * [University Exam Schedules](https://registrar.appstate.edu/calendars-schedules/exam-schedule-0)
 
 ## Mathematical Sciences
