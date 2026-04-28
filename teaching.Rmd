@@ -18,6 +18,7 @@ output: html_document
 
 ## Course Resources
 
+* [AppState Canvas](https://appstate.instructure.com/)
 * [AppState Posit Server](https://mathr.appstate.edu)
 * [Desmos Studio](https://www.desmos.com/)
 * [GitHub Course Repos](https://github.com/STAT-JET-ASU)
