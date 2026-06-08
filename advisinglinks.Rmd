@@ -7,13 +7,13 @@ output: html_document
 
 ## Degree Works & Classes
 
-* [AppalNet Main Page](https://appalnet.appstate.edu/)
-* [Degree Works Main Page](https://registrar.appstate.edu/degreeworks)
-* [Early Registration Access Page](https://registrar.appstate.edu/students/registration-classes/early-registration-access)
+* [AppalNet](https://appalnet.appstate.edu/)
+* [Degree Works](https://registrar.appstate.edu/degreeworks)
+* [Exam Schedules](https://registrar.appstate.edu/calendars-schedules/exam-schedule-0)
+* [Registration Access Times](https://registrar.appstate.edu/students/registration-classes/early-registration-access)
 * [Self-Service Direct Link (Banner 9)](https://bannerweb.appstate.edu/)
-* [Student Self-Service Guide (Banner 9)](https://confluence.appstate.edu/spaces/ATKB/pages/339509456/Student+Self-Service+Guide)
 * [Class Search Direct Link (Banner 9)](https://bannerxe.appstate.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search)
-* [University Exam Schedules](https://registrar.appstate.edu/calendars-schedules/exam-schedule-0)
+
 
 ## Mathematical Sciences
 
