@@ -14,7 +14,6 @@ output: html_document
 * [Self-Service Direct Link (Banner 9)](https://bannerweb.appstate.edu/)
 * [Class Search Direct Link (Banner 9)](https://bannerxe.appstate.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search)
 
-
 ## Mathematical Sciences
 
 * [Department of Mathematical Sciences](https://mathsci.appstate.edu/)
@@ -27,8 +26,9 @@ output: html_document
 ## University & College
 
 * [Office of the Registrar](https://registrar.appstate.edu/)
+* [Office of the Registrar: Forms](https://registrar.appstate.edu/resources/forms)
 * [College of Arts and Sciences](https://cas.appstate.edu/)
-* [College of Arts and Sciences Student Forms](https://cas.appstate.edu/advising/student-forms)
+* [College of Arts and Sciences: Student Forms](https://cas.appstate.edu/advising/student-forms)
 * [Student Conduct and Academic Integrity](https://studentconduct.appstate.edu/)
 * [Student Success Services & Support](https://studentsuccess.appstate.edu/)
 
