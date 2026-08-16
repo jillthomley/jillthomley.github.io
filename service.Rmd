@@ -5,6 +5,15 @@ output: html_document
 
 <hr>
 
+## Academic Year 2026--2027
+
+* Statistics Director
+* [ASU Human Subjects: Institutional Review Board (IRB)](https://researchprotections.appstate.edu/human-subjects), Deputy Chair
+* [Pi Mu Epsilon Mathematics Honor Society](http://www.cs.appstate.edu/sjg/PiMuEpsilon/), Co-Advisor
+* Department of Mathematical Science Curriculum Committee
+* Appointment, Promotion, and Tenure Committee
+* STT 1810 Course Convener
+
 ## Academic Year 2025--2026
 
 * Statistics Director
@@ -49,19 +58,5 @@ output: html_document
 * College of Arts and Sciences Sustainability Focus Group
 * [Pi Mu Epsilon Mathematics Honor Society](http://cs.appstate.edu/sjg/PiMuEpsilon/)
 * I was on medical leave during Fall 2020
-
-## Academic Year 2019--2020
-
-* [ASU Human Subjects: Institutional Review Board (IRB)](https://researchprotections.appstate.edu/human-subjects)
-* College of Arts and Sciences Sustainability Focus Group
-* [Pi Mu Epsilon Mathematics Honor Society](http://cs.appstate.edu/sjg/PiMuEpsilon/), Co-Advisor
-* Mathematical Sciences Analytics Committee
-
-## Academic Year 2018--2019
-
-* [ASU Human Subjects: Institutional Review Board (IRB)](https://researchprotections.appstate.edu/human-subjects)
-* [Pi Mu Epsilon Mathematics Honor Society](http://cs.appstate.edu/sjg/PiMuEpsilon/), Co-Advisor
-* Mathematical Sciences Analytics Committee
-* Mathematical Sciences Assessment
 
 <hr>

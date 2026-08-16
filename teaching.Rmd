@@ -5,6 +5,12 @@ output: html_document
 
 <hr>
 
+## Fall 2026 Courses
+
+* STT 1810 Basic Statistics
+* STT 4811 Statistical Concepts and Applications I
+* One-course release for being Statistics Director
+
 ## Spring 2026 Courses
 
 * STT 4812 Statistical Concepts and Applications II

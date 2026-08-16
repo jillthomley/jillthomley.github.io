@@ -41,6 +41,7 @@ output: html_document
 ## Faculty Resurces
 
 * [Math Sci Faculty Info (restricted access)](https://drive.google.com/drive/folders/0AMSn-D3ZZo8tUk9PVA)
+* [IT Support Services: Accounts & Programs](https://support.appstate.edu/faculty-staff/accounts-programs)
 * [Academic Affairs Resources and Forms](https://academicaffairs.appstate.edu/resources-forms)
 * [AppState Brand Guides & Resources](https://uc.appstate.edu/brand-guides-resources)
 
