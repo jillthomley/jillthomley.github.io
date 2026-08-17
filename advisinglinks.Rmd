@@ -44,5 +44,6 @@ output: html_document
 * [IT Support Services: Accounts & Programs](https://support.appstate.edu/faculty-staff/accounts-programs)
 * [Academic Affairs Resources and Forms](https://academicaffairs.appstate.edu/resources-forms)
 * [AppState Brand Guides & Resources](https://uc.appstate.edu/brand-guides-resources)
+* [Report a Concern: Options](https://report.appstate.edu/)
 
 <hr>
