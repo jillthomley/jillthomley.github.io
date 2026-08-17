@@ -4,9 +4,9 @@ title: "Welcome!"
 
 <hr>
 
-"We are in the era of big data, and big data needs statisticians to make sense of it. The democratization of data means that those who can analyze it well will win. Data is the sword of the twenty-first century, those who wield it well, the samurai." --- Eric Schmidt & Jonathan Rosenberg, in their book *How Google Works*
+"It is critical that statisticians—or anyone who uses data—be more than just data crunchers. They should be data problem solvers who interrogate the data and utilize questioning throughout the statistical problem-solving process to make decisions with confidence, understanding that the art of communication with data is essential." --- *Pre-K–12 Guidelines for Assessment and Instruction in Statistics Education II (GAISE II)*
 
-<img src="images/carolinaemblempatchimg.jpg" alt="girl scout patch" align="right" hspace="20" style="height:200px;">
+<img src="images/carolinaemblempatchimg.jpg" alt="girl scout patch" align="right" vspace="20" hspace="20" style="height:200px;">
 
 **Scholarly and Pedagogical Interests**
 
@@ -19,8 +19,6 @@ title: "Welcome!"
 * women and minorities in statistics
 * mathematics / statistics in popular culture
 * [Women in Mathematics Patch for Girl Scouts](https://cs.appstate.edu/sjg/awm/earnedbadge.html)
-
-My co-authors and I are pleased to announce that our paper **“Raising the Bar with Standards-Based Grading”** has been chosen as the [PRIMUS Editors' Picks 2024, Most Downloaded Paper](https://primusmath.com/2025/01/03/editors-picks-2024/). Please refer to the PRIMUS link or my [Scholarship](https://jillthomley.github.io/scholarship.html) page for more information.
 
 *This site was last rendered on `r format(Sys.time(), "%A, %B %d, %Y at %I:%M %p.")`*
 
