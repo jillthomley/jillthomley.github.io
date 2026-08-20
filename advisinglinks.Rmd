@@ -34,6 +34,7 @@ output: html_document
 
 ## Undergraduate Bulletins
 
+* [Undergraduate Bulletin 2026-2027 Main Page](https://bulletin.appstate.edu/index.php)
 * [Undergraduate Bulletin 2025-2026 Main Page](https://bulletin.appstate.edu/index.php?catoid=39)
 * [Undergraduate Bulletin 2024-2025 Main Page](https://bulletin.appstate.edu/index.php?catoid=34)
 * [Undergraduate Bulletin 2023-2024 Main Page](https://bulletin.appstate.edu/index.php?catoid=30)

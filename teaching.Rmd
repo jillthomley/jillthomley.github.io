@@ -9,6 +9,7 @@ output: html_document
 
 * STT 1810 Basic Statistics
 * STT 4811 Statistical Concepts and Applications I
+* MAT 4510 Senior Honors Thesis
 * One-course release for being Statistics Director
 
 ## Spring 2026 Courses
@@ -49,6 +50,5 @@ output: html_document
 * [StatsCalculators](https://www.statscalculators.com)
     * Includes some related R and Python code
 * [The Calculator Site (Miscellaneous)](https://www.thecalculatorsite.com)
-
 
 <hr>
